@@ -1,0 +1,8 @@
+MODULES_MANAGER_V2
+com.__init__|/home/aditygoy/pythonWS/python/MessagesStringsUpdaer/src/com/__init__.py
+com.goyal.__init__|/home/aditygoy/pythonWS/python/MessagesStringsUpdaer/src/com/goyal/__init__.py
+com.goyal.addy.__init__|/home/aditygoy/pythonWS/python/MessagesStringsUpdaer/src/com/goyal/addy/__init__.py
+com.goyal.addy.messages.MessagesUpdate|/home/aditygoy/pythonWS/python/MessagesStringsUpdaer/src/com/goyal/addy/messages/MessagesUpdate.py
+com.goyal.addy.messages.__init__|/home/aditygoy/pythonWS/python/MessagesStringsUpdaer/src/com/goyal/addy/messages/__init__.py
+com.goyal.addy.util.PropertiesFile|/home/aditygoy/pythonWS/python/MessagesStringsUpdaer/src/com/goyal/addy/util/PropertiesFile.py
+com.goyal.addy.util.__init__|/home/aditygoy/pythonWS/python/MessagesStringsUpdaer/src/com/goyal/addy/util/__init__.py

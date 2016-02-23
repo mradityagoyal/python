@@ -1,0 +1,24 @@
+-- VERSION_4
+-- START DISKCACHE_2
+/home/aditygoy/pythonWS/python/.metadata/.plugins/org.eclipse.core.resources/.projects/VanguardConverter/com.python.pydev.analysis/v2_indexcache
+com.__init__|1452275796000000000|/home/aditygoy/pythonWS/python/VanguardConverter/src/com/__init__.py
+com.mradityagoyal.__init__|1452275796000000000|/home/aditygoy/pythonWS/python/VanguardConverter/src/com/mradityagoyal/__init__.py
+com.mradityagoyal.Converter|1456162395000000000|/home/aditygoy/pythonWS/python/VanguardConverter/src/com/mradityagoyal/Converter.py
+-- END DISKCACHE
+-- START DICTIONARY
+1
+1=com.mradityagoyal.Converter
+-- END DICTIONARY
+-- START TREE 1
+7
+amo|1|amount!11@
+kno|1|knownInvestments!11@
+new|1|newLines!11@
+num|1|numShares!11@
+pri|1|pricePerShare!11@
+tok|1|tokens!11@
+tra|1|transactionType!11@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

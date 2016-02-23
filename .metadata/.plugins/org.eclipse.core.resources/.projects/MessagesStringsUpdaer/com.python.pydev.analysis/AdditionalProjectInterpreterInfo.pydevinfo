@@ -1,0 +1,58 @@
+-- VERSION_4
+-- START DISKCACHE_2
+/home/aditygoy/pythonWS/python/.metadata/.plugins/org.eclipse.core.resources/.projects/MessagesStringsUpdaer/com.python.pydev.analysis/v2_indexcache
+com.goyal.addy.messages.__init__|1454355026000000000|/home/aditygoy/pythonWS/python/MessagesStringsUpdaer/src/com/goyal/addy/messages/__init__.py
+com.__init__|1454354990000000000|/home/aditygoy/pythonWS/python/MessagesStringsUpdaer/src/com/__init__.py
+com.goyal.__init__|1454354990000000000|/home/aditygoy/pythonWS/python/MessagesStringsUpdaer/src/com/goyal/__init__.py
+com.goyal.addy.util.PropertiesFile|1454355309000000000|/home/aditygoy/pythonWS/python/MessagesStringsUpdaer/src/com/goyal/addy/util/PropertiesFile.py
+com.goyal.addy.messages.MessagesUpdate|1454358612000000000|/home/aditygoy/pythonWS/python/MessagesStringsUpdaer/src/com/goyal/addy/messages/MessagesUpdate.py
+com.goyal.addy.util.__init__|1454355464000000000|/home/aditygoy/pythonWS/python/MessagesStringsUpdaer/src/com/goyal/addy/util/__init__.py
+com.goyal.addy.__init__|1454354990000000000|/home/aditygoy/pythonWS/python/MessagesStringsUpdaer/src/com/goyal/addy/__init__.py
+-- END DISKCACHE
+-- START DICTIONARY
+6
+5=Properties.__init__
+4=IllegalArgumentException
+6=IllegalArgumentException.__init__
+2=com.goyal.addy.util.PropertiesFile
+1=com.goyal.addy.messages.MessagesUpdate
+3=Properties
+-- END DICTIONARY
+-- START TREE 1
+12
+cau|1|CAUSE_COLUMN_POSITION!11@
+enu|1|enum_key!11@
+fil|1|fileStream!11@
+ill|1|IllegalArgumentException!17@
+key|1|KEY_COLUMN_POSITION!11@
+mes|1|MESSAGE_COLUMN_POSITION!11@
+ori|2|origMessage!11@ORIGINAL_MESSAGE_COLUMN_POSITION!11@
+pro|2|Properties!17@props!11@
+res|1|RESOLUTION_COLUMN_POSITION!11@
+upd|4|updatedCause!11@updatedResolution!11@updateCauseResolution!10@updatedMessage!11@
+wb|1|wb!11@
+ws|1|ws!11@
+-- END TREE
+-- START TREE 2
+20
+__g|2|__getitem__!3&18@__getattr__!3&18@
+__i|2|__init__!3&18@__init__!4&18@
+__p|1|__parse!3&18@
+__s|3|__setitem__!3&18@__str__!3&18@__str__!4&18@
+_ke|1|_keymap!5&19@
+_or|1|_origprops!5&19@
+_pr|1|_props!5&19@
+bsp|1|bspacere!5&19@
+esc|1|escape!3&18@
+get|2|getProperty!3&18@getPropertyDict!3&18@
+lin|1|lineno!6&19@
+lis|1|list!3&18@
+loa|1|load!3&18@
+msg|1|msg!6&19@
+oth|2|othercharre2!5&19@othercharre!5&19@
+p|1|p!3&19@
+pro|2|processPair!3&18@propertyNames!3&18@
+set|1|setProperty!3&18@
+sto|1|store!3&18@
+une|1|unescape!3&18@
+-- END TREE
