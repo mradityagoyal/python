@@ -13,7 +13,7 @@ with open('/home/aditygoy/pythonWS/python/history.csv') as f:
     transactionType = {"CONTRIBUTION": "BUY", "REVENUE CREDIT":"BUY", "DIVIDEND":"BUY",
     "Exchange Out": "SELL", "Exchange In": "BUY", "Change In Market Value" : "BUY"}
     newLines = []
-    print("Date, Ticker, Quantity, Price, Action, Name, Transaction Type")
+    print("Date, Ticker, NumShares, Price, Amount,  Action, Name, Transaction Type")
     for line in f:
         line = line.rstrip()
         if(line.startswith('#')):
@@ -29,7 +29,7 @@ with open('/home/aditygoy/pythonWS/python/history.csv') as f:
                 if numShares > 0:
                     pricePerShare = amount / numShares;
                 if tokens[2] != "Change In Marget Value":
-                    newLines.append(tokens[0] + "," + knownInvestments[tokens[1]] + "," + tokens[4][1:-2] + "," + str(pricePerShare) + "," + transactionType[tokens[2]]+ ","+ tokens[1] +","+ tokens[2])
+                    newLines.append(tokens[0] + "," + knownInvestments[tokens[1]] + "," + str(numShares) + "," + str(pricePerShare)+ "," + str(amount) + "," + transactionType[tokens[2]]+ ","+ tokens[1] +","+ tokens[2])
             except :
                 print("Oops error " + line)
     for l in newLines:
