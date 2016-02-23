@@ -2347,3 +2347,43 @@ java.lang.RuntimeException: Finished restoring information for: /usr/bin/python3
 
 !ENTRY org.python.pydev.shared_core 4 4 2016-02-23 11:28:57.798
 !MESSAGE Info: Rebuilding internal caches: /home/aditygoy/pythonWS/python/.metadata/.plugins/com.python.pydev.analysis/python_v1_93lbdo62cifm9olokixj47cql/python.pydevsysteminfo (Expected error to be provided and got no error!)
+
+!ENTRY org.eclipse.egit.core 4 0 2016-02-23 13:10:20.649
+!MESSAGE An exception occurred during push on URI https://github.com/mradityagoyal/python.git: https://github.com/mradityagoyal/python.git: not authorized
+!STACK 0
+org.eclipse.jgit.errors.TransportException: https://github.com/mradityagoyal/python.git: not authorized
+	at org.eclipse.jgit.transport.TransportHttp.connect(TransportHttp.java:498)
+	at org.eclipse.jgit.transport.TransportHttp.openPush(TransportHttp.java:387)
+	at org.eclipse.jgit.transport.PushProcess.execute(PushProcess.java:154)
+	at org.eclipse.jgit.transport.Transport.push(Transport.java:1200)
+	at org.eclipse.egit.core.op.PushOperation.run(PushOperation.java:197)
+	at org.eclipse.egit.ui.internal.push.ConfirmationPage$2.run(ConfirmationPage.java:209)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:119)
+!SESSION 2016-02-23 13:10:38.887 -----------------------------------------------
+eclipse.buildId=4.5.1.M20150904-0015
+java.version=1.7.0_95
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.core.resources 2 10035 2016-02-23 13:10:40.170
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.core.net 1 0 2016-02-23 13:10:42.691
+!MESSAGE System property http.proxyHost is not set but should be www-proxy.us.oracle.com.
+
+!ENTRY org.eclipse.core.net 1 0 2016-02-23 13:10:42.693
+!MESSAGE System property http.proxyPort is not set but should be 80.
+
+!ENTRY org.eclipse.core.net 1 0 2016-02-23 13:10:42.693
+!MESSAGE System property https.proxyHost is not set but should be www-proxy.us.oracle.com.
+
+!ENTRY org.eclipse.core.net 1 0 2016-02-23 13:10:42.693
+!MESSAGE System property https.proxyPort is not set but should be 80.
+
+!ENTRY org.eclipse.core.net 1 0 2016-02-23 13:10:42.694
+!MESSAGE System property https.proxyHost is not set but should be www-proxy.us.oracle.com.
+
+!ENTRY org.eclipse.core.net 1 0 2016-02-23 13:10:42.694
+!MESSAGE System property https.proxyPort is not set but should be 80.
