@@ -28,6 +28,7 @@ with open('/home/aditygoy/pythonWS/python/history.csv') as f:
                 numShares = float(tokens[4].strip('"'))
                 if numShares != 0:
                     pricePerShare = amount / numShares;
+                else : pricePerShare = "NaN"
                 if tokens[2] != "Change In Marget Value":
                     newLines.append(tokens[0] + "," + knownInvestments[tokens[1]] + "," + str(numShares) + "," + str(pricePerShare)+ "," + str(amount) + "," + transactionType[tokens[2]]+ ","+ tokens[1] +","+ tokens[2])
             except :
