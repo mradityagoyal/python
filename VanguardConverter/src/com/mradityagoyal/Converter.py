@@ -26,7 +26,7 @@ with open('/home/aditygoy/pythonWS/python/history.csv') as f:
             try:
                 amount = float(tokens[3].strip('"'))
                 numShares = float(tokens[4].strip('"'))
-                if numShares > 0:
+                if numShares != 0:
                     pricePerShare = amount / numShares;
                 if tokens[2] != "Change In Marget Value":
                     newLines.append(tokens[0] + "," + knownInvestments[tokens[1]] + "," + str(numShares) + "," + str(pricePerShare)+ "," + str(amount) + "," + transactionType[tokens[2]]+ ","+ tokens[1] +","+ tokens[2])
