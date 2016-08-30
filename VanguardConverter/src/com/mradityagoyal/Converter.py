@@ -5,7 +5,7 @@ Created on Jan 8, 2016
 '''
 
 
-with open('/home/aditygoy/pythonWS/python/history.csv') as f:
+with open('D:\pythonWorkspace\python\history.csv') as f:
     # dictionary.. vanguard export file stick name : stock ticker
     knownInvestments = {"VANG TOT INTL STK IP" : "VTPSX", "VANG INST INDEX PLUS":"VIIIX",
     "VANG TOT INTL STK IS":"VTSNX", "VANG EXT MKT IDX ISP":"VEMPX", "FID GROWTH CO POOL" : "MUTF:FGCP", "VANGUARD TARGET 2050":"MUTF:VT2050", "VANGUARD TARGET 2060":"MUTF:VT2060"}
