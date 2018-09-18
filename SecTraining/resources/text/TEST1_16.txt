@@ -1,0 +1,865 @@
+introduction to security tools and technologies
+firewalls: example 18/83
+presenters at defcon demonstrated setiri, a trojan horse that evades firewall detection.
++ itopens an invisible window in ie that connects to a web server through a proxy site.
+| + protective measures include turning off the invisible window function in ie, but that could erode the performance of
+some ie functions.
+this is just one example of a vulnerability that firewalls are powerless to prevent.introduction to security tools and technologies
+firewalls: example 18/83
+presenters at defcon demonstrated setiri, a trojan horse that evades firewall detection.
++ itopens an invisible window in ie that connects to a web server through a proxy site.
+| + protective measures include turning off the invisible window function in ie, but that could erode the performance of
+some ie functions.
+this is just one example of a vulnerability that firewalls are powerless to prevent.introduction to security tools and technologies
+firewalls: example 18/83
+presenters at defcon demonstrated setiri, a trojan horse that evades firewall detection.
++ itopens an invisible window in ie that connects to a web server through a proxy site.
+| + protective measures include turning off the invisible window function in ie, but that could erode the performance of
+some ie functions.
+this is just one example of a vulnerability that firewalls are powerless to prevent.introduction to security tools and technologies
+firewalls: example 18/83
+presenters at defcon demonstrated setiri, a trojan horse that evades firewall detection.
++ itopens an invisible window in ie that connects to a web server through a proxy site.
+| + protective measures include turning off the invisible window function in ie, but that could erode the performance of
+some ie functions.
+this is just one example of a vulnerability that firewalls are powerless to prevent.introduction to security tools and technologies
+firewalls: example 18/83
+presenters at defcon demonstrated setiri, a trojan horse that evades firewall detection.
++ itopens an invisible window in ie that connects to a web server through a proxy site.
+| + protective measures include turning off the invisible window function in ie, but that could erode the performance of
+some ie functions.
+this is just one example of a vulnerability that firewalls are powerless to prevent.introduction to security tools and technologies
+firewalls: example 18/83
+presenters at defcon demonstrated setiri, a trojan horse that evades firewall detection.
++ itopens an invisible window in ie that connects to a web server through a proxy site.
+| + protective measures include turning off the invisible window function in ie, but that could erode the performance of
+some ie functions.
+this is just one example of a vulnerability that firewalls are powerless to prevent.introduction to security tools and technologies
+firewalls: example 18/83
+presenters at defcon demonstrated setiri, a trojan horse that evades firewall detection.
++ itopens an invisible window in ie that connects to a web server through a proxy site.
+| + protective measures include turning off the invisible window function in ie, but that could erode the performance of
+some ie functions.
+this is just one example of a vulnerability that firewalls are powerless to prevent.introduction to security tools and technologies
+firewalls: example 18/83
+presenters at defcon demonstrated setiri, a trojan horse that evades firewall detection.
++ itopens an invisible window in ie that connects to a web server through a proxy site.
+| + protective measures include turning off the invisible window function in ie, but that could erode the performance of
+some ie functions.
+this is just one example of a vulnerability that firewalls are powerless to prevent.introduction to security tools and technologies
+firewalls: example 18/83
+presenters at defcon demonstrated setiri, a trojan horse that evades firewall detection.
++ itopens an invisible window in ie that connects to a web server through a proxy site.
+| + protective measures include turning off the invisible window function in ie, but that could erode the performance of
+some ie functions.
+this is just one example of a vulnerability that firewalls are powerless to prevent.introduction to security tools and technologies
+firewalls: example 18/83
+presenters at defcon demonstrated setiri, a trojan horse that evades firewall detection.
++ itopens an invisible window in ie that connects to a web server through a proxy site.
+| + protective measures include turning off the invisible window function in ie, but that could erode the performance of
+some ie functions.
+this is just one example of a vulnerability that firewalls are powerless to prevent.introduction to security tools and technologies
+firewalls: example 18/83
+presenters at defcon demonstrated setiri, a trojan horse that evades firewall detection.
++ itopens an invisible window in ie that connects to a web server through a proxy site.
+| + protective measures include turning off the invisible window function in ie, but that could erode the performance of
+some ie functions.
+this is just one example of a vulnerability that firewalls are powerless to prevent.introduction to security tools and technologies
+firewalls: example 18/83
+presenters at defcon demonstrated setiri, a trojan horse that evades firewall detection.
++ itopens an invisible window in ie that connects to a web server through a proxy site.
+| + protective measures include turning off the invisible window function in ie, but that could erode the performance of
+some ie functions.
+this is just one example of a vulnerability that firewalls are powerless to prevent.introduction to security tools and technologies
+firewalls: example 18/83
+presenters at defcon demonstrated setiri, a trojan horse that evades firewall detection.
++ itopens an invisible window in ie that connects to a web server through a proxy site.
+| + protective measures include turning off the invisible window function in ie, but that could erode the performance of
+some ie functions.
+this is just one example of a vulnerability that firewalls are powerless to prevent.introduction to security tools and technologies
+firewalls: example 18/83
+presenters at defcon demonstrated setiri, a trojan horse that evades firewall detection.
++ itopens an invisible window in ie that connects to a web server through a proxy site.
+| + protective measures include turning off the invisible window function in ie, but that could erode the performance of
+some ie functions.
+this is just one example of a vulnerability that firewalls are powerless to prevent.introduction to security tools and technologies
+firewalls: example 18/83
+presenters at defcon demonstrated setiri, a trojan horse that evades firewall detection.
++ itopens an invisible window in ie that connects to a web server through a proxy site.
+| + protective measures include turning off the invisible window function in ie, but that could erode the performance of
+some ie functions.
+this is just one example of a vulnerability that firewalls are powerless to prevent.introduction to security tools and technologies
+firewalls: example 18/83
+presenters at defcon demonstrated setiri, a trojan horse that evades firewall detection.
++ itopens an invisible window in ie that connects to a web server through a proxy site.
+| + protective measures include turning off the invisible window function in ie, but that could erode the performance of
+some ie functions.
+this is just one example of a vulnerability that firewalls are powerless to prevent.introduction to security tools and technologies
+firewalls: example 18/83
+presenters at defcon demonstrated setiri, a trojan horse that evades firewall detection.
++ itopens an invisible window in ie that connects to a web server through a proxy site.
+| + protective measures include turning off the invisible window function in ie, but that could erode the performance of
+some ie functions.
+this is just one example of a vulnerability that firewalls are powerless to prevent.introduction to security tools and technologies
+firewalls: example 18/83
+presenters at defcon demonstrated setiri, a trojan horse that evades firewall detection.
++ itopens an invisible window in ie that connects to a web server through a proxy site.
+| + protective measures include turning off the invisible window function in ie, but that could erode the performance of
+some ie functions.
+this is just one example of a vulnerability that firewalls are powerless to prevent.introduction to security tools and technologies
+firewalls: example 18/83
+presenters at defcon demonstrated setiri, a trojan horse that evades firewall detection.
++ itopens an invisible window in ie that connects to a web server through a proxy site.
+| + protective measures include turning off the invisible window function in ie, but that could erode the performance of
+some ie functions.
+this is just one example of a vulnerability that firewalls are powerless to prevent.introduction to security tools and technologies
+firewalls: example 18/83
+presenters at defcon demonstrated setiri, a trojan horse that evades firewall detection.
++ itopens an invisible window in ie that connects to a web server through a proxy site.
+| + protective measures include turning off the invisible window function in ie, but that could erode the performance of
+some ie functions.
+this is just one example of a vulnerability that firewalls are powerless to prevent.introduction to security tools and technologies
+firewalls: example 18/83
+presenters at defcon demonstrated setiri, a trojan horse that evades firewall detection.
++ itopens an invisible window in ie that connects to a web server through a proxy site.
+| + protective measures include turning off the invisible window function in ie, but that could erode the performance of
+some ie functions.
+this is just one example of a vulnerability that firewalls are powerless to prevent.introduction to security tools and technologies
+firewalls: example 18/83
+presenters at defcon demonstrated setiri, a trojan horse that evades firewall detection.
++ itopens an invisible window in ie that connects to a web server through a proxy site.
+| + protective measures include turning off the invisible window function in ie, but that could erode the performance of
+some ie functions.
+this is just one example of a vulnerability that firewalls are powerless to prevent.introduction to security tools and technologies
+firewalls: example 18/83
+presenters at defcon demonstrated setiri, a trojan horse that evades firewall detection.
++ itopens an invisible window in ie that connects to a web server through a proxy site.
+| + protective measures include turning off the invisible window function in ie, but that could erode the performance of
+some ie functions.
+this is just one example of a vulnerability that firewalls are powerless to prevent.introduction to security tools and technologies
+firewalls: example 18/83
+presenters at defcon demonstrated setiri, a trojan horse that evades firewall detection.
++ itopens an invisible window in ie that connects to a web server through a proxy site.
+| + protective measures include turning off the invisible window function in ie, but that could erode the performance of
+some ie functions.
+this is just one example of a vulnerability that firewalls are powerless to prevent.introduction to security tools and technologies
+firewalls: example 18/83
+presenters at defcon demonstrated setiri, a trojan horse that evades firewall detection.
++ itopens an invisible window in ie that connects to a web server through a proxy site.
+| + protective measures include turning off the invisible window function in ie, but that could erode the performance of
+some ie functions.
+this is just one example of a vulnerability that firewalls are powerless to prevent.introduction to security tools and technologies
+firewalls: example 18/83
+presenters at defcon demonstrated setiri, a trojan horse that evades firewall detection.
++ itopens an invisible window in ie that connects to a web server through a proxy site.
+| + protective measures include turning off the invisible window function in ie, but that could erode the performance of
+some ie functions.
+this is just one example of a vulnerability that firewalls are powerless to prevent.introduction to security tools and technologies
+firewalls: example 18/83
+presenters at defcon demonstrated setiri, a trojan horse that evades firewall detection.
++ itopens an invisible window in ie that connects to a web server through a proxy site.
+| + protective measures include turning off the invisible window function in ie, but that could erode the performance of
+some ie functions.
+this is just one example of a vulnerability that firewalls are powerless to prevent.introduction to security tools and technologies
+firewalls: example 18/83
+presenters at defcon demonstrated setiri, a trojan horse that evades firewall detection.
++ itopens an invisible window in ie that connects to a web server through a proxy site.
+| + protective measures include turning off the invisible window function in ie, but that could erode the performance of
+some ie functions.
+this is just one example of a vulnerability that firewalls are powerless to prevent.introduction to security tools and technologies
+firewalls: example 18/83
+presenters at defcon demonstrated setiri, a trojan horse that evades firewall detection.
++ itopens an invisible window in ie that connects to a web server through a proxy site.
+| + protective measures include turning off the invisible window function in ie, but that could erode the performance of
+some ie functions.
+this is just one example of a vulnerability that firewalls are powerless to prevent.introduction to security tools and technologies
+firewalls: example 18/83
+presenters at defcon demonstrated setiri, a trojan horse that evades firewall detection.
++ itopens an invisible window in ie that connects to a web server through a proxy site.
+| + protective measures include turning off the invisible window function in ie, but that could erode the performance of
+some ie functions.
+this is just one example of a vulnerability that firewalls are powerless to prevent.introduction to security tools and technologies
+firewalls: example 18/83
+presenters at defcon demonstrated setiri, a trojan horse that evades firewall detection.
++ itopens an invisible window in ie that connects to a web server through a proxy site.
+| + protective measures include turning off the invisible window function in ie, but that could erode the performance of
+some ie functions.
+this is just one example of a vulnerability that firewalls are powerless to prevent.introduction to security tools and technologies
+firewalls: example 18/83
+presenters at defcon demonstrated setiri, a trojan horse that evades firewall detection.
++ itopens an invisible window in ie that connects to a web server through a proxy site.
+| + protective measures include turning off the invisible window function in ie, but that could erode the performance of
+some ie functions.
+this is just one example of a vulnerability that firewalls are powerless to prevent.introduction to security tools and technologies
+firewalls: example 18/83
+presenters at defcon demonstrated setiri, a trojan horse that evades firewall detection.
++ itopens an invisible window in ie that connects to a web server through a proxy site.
+| + protective measures include turning off the invisible window function in ie, but that could erode the performance of
+some ie functions.
+this is just one example of a vulnerability that firewalls are powerless to prevent.introduction to security tools and technologies
+firewalls: example 18/83
+presenters at defcon demonstrated setiri, a trojan horse that evades firewall detection.
++ itopens an invisible window in ie that connects to a web server through a proxy site.
+| + protective measures include turning off the invisible window function in ie, but that could erode the performance of
+some ie functions.
+this is just one example of a vulnerability that firewalls are powerless to prevent.introduction to security tools and technologies
+firewalls: example 18/83
+presenters at defcon demonstrated setiri, a trojan horse that evades firewall detection.
++ itopens an invisible window in ie that connects to a web server through a proxy site.
+| + protective measures include turning off the invisible window function in ie, but that could erode the performance of
+some ie functions.
+this is just one example of a vulnerability that firewalls are powerless to prevent.introduction to security tools and technologies
+firewalls: example 18/83
+presenters at defcon demonstrated setiri, a trojan horse that evades firewall detection.
++ itopens an invisible window in ie that connects to a web server through a proxy site.
+| + protective measures include turning off the invisible window function in ie, but that could erode the performance of
+some ie functions.
+this is just one example of a vulnerability that firewalls are powerless to prevent.introduction to security tools and technologies
+firewalls: example 18/83
+presenters at defcon demonstrated setiri, a trojan horse that evades firewall detection.
++ itopens an invisible window in ie that connects to a web server through a proxy site.
+| + protective measures include turning off the invisible window function in ie, but that could erode the performance of
+some ie functions.
+this is just one example of a vulnerability that firewalls are powerless to prevent.introduction to security tools and technologies
+firewalls: example 18/83
+presenters at defcon demonstrated setiri, a trojan horse that evades firewall detection.
++ itopens an invisible window in ie that connects to a web server through a proxy site.
+| + protective measures include turning off the invisible window function in ie, but that could erode the performance of
+some ie functions.
+this is just one example of a vulnerability that firewalls are powerless to prevent.introduction to security tools and technologies
+firewalls: example 18/83
+presenters at defcon demonstrated setiri, a trojan horse that evades firewall detection.
++ itopens an invisible window in ie that connects to a web server through a proxy site.
+| + protective measures include turning off the invisible window function in ie, but that could erode the performance of
+some ie functions.
+this is just one example of a vulnerability that firewalls are powerless to prevent.introduction to security tools and technologies
+firewalls: example 18/83
+presenters at defcon demonstrated setiri, a trojan horse that evades firewall detection.
++ itopens an invisible window in ie that connects to a web server through a proxy site.
+| + protective measures include turning off the invisible window function in ie, but that could erode the performance of
+some ie functions.
+this is just one example of a vulnerability that firewalls are powerless to prevent.introduction to security tools and technologies
+firewalls: example 18/83
+presenters at defcon demonstrated setiri, a trojan horse that evades firewall detection.
++ itopens an invisible window in ie that connects to a web server through a proxy site.
+| + protective measures include turning off the invisible window function in ie, but that could erode the performance of
+some ie functions.
+this is just one example of a vulnerability that firewalls are powerless to prevent.introduction to security tools and technologies
+firewalls: example 18/83
+presenters at defcon demonstrated setiri, a trojan horse that evades firewall detection.
++ itopens an invisible window in ie that connects to a web server through a proxy site.
+| + protective measures include turning off the invisible window function in ie, but that could erode the performance of
+some ie functions.
+this is just one example of a vulnerability that firewalls are powerless to prevent.introduction to security tools and technologies
+firewalls: example 18/83
+presenters at defcon demonstrated setiri, a trojan horse that evades firewall detection.
++ itopens an invisible window in ie that connects to a web server through a proxy site.
+| + protective measures include turning off the invisible window function in ie, but that could erode the performance of
+some ie functions.
+this is just one example of a vulnerability that firewalls are powerless to prevent.introduction to security tools and technologies
+firewalls: example 18/83
+presenters at defcon demonstrated setiri, a trojan horse that evades firewall detection.
++ itopens an invisible window in ie that connects to a web server through a proxy site.
+| + protective measures include turning off the invisible window function in ie, but that could erode the performance of
+some ie functions.
+this is just one example of a vulnerability that firewalls are powerless to prevent.introduction to security tools and technologies
+firewalls: example 18/83
+presenters at defcon demonstrated setiri, a trojan horse that evades firewall detection.
++ itopens an invisible window in ie that connects to a web server through a proxy site.
+| + protective measures include turning off the invisible window function in ie, but that could erode the performance of
+some ie functions.
+this is just one example of a vulnerability that firewalls are powerless to prevent.introduction to security tools and technologies
+firewalls: example 18/83
+presenters at defcon demonstrated setiri, a trojan horse that evades firewall detection.
++ itopens an invisible window in ie that connects to a web server through a proxy site.
+| + protective measures include turning off the invisible window function in ie, but that could erode the performance of
+some ie functions.
+this is just one example of a vulnerability that firewalls are powerless to prevent.introduction to security tools and technologies
+firewalls: example 18/83
+presenters at defcon demonstrated setiri, a trojan horse that evades firewall detection.
++ itopens an invisible window in ie that connects to a web server through a proxy site.
+| + protective measures include turning off the invisible window function in ie, but that could erode the performance of
+some ie functions.
+this is just one example of a vulnerability that firewalls are powerless to prevent.introduction to security tools and technologies
+firewalls: example 18/83
+presenters at defcon demonstrated setiri, a trojan horse that evades firewall detection.
++ itopens an invisible window in ie that connects to a web server through a proxy site.
+| + protective measures include turning off the invisible window function in ie, but that could erode the performance of
+some ie functions.
+this is just one example of a vulnerability that firewalls are powerless to prevent.introduction to security tools and technologies
+firewalls: example 18/83
+presenters at defcon demonstrated setiri, a trojan horse that evades firewall detection.
++ itopens an invisible window in ie that connects to a web server through a proxy site.
+| + protective measures include turning off the invisible window function in ie, but that could erode the performance of
+some ie functions.
+this is just one example of a vulnerability that firewalls are powerless to prevent.introduction to security tools and technologies
+firewalls: example 18/83
+presenters at defcon demonstrated setiri, a trojan horse that evades firewall detection.
++ itopens an invisible window in ie that connects to a web server through a proxy site.
+| + protective measures include turning off the invisible window function in ie, but that could erode the performance of
+some ie functions.
+this is just one example of a vulnerability that firewalls are powerless to prevent.introduction to security tools and technologies
+firewalls: example 18/83
+presenters at defcon demonstrated setiri, a trojan horse that evades firewall detection.
++ itopens an invisible window in ie that connects to a web server through a proxy site.
+| + protective measures include turning off the invisible window function in ie, but that could erode the performance of
+some ie functions.
+this is just one example of a vulnerability that firewalls are powerless to prevent.introduction to security tools and technologies
+firewalls: example 18/83
+presenters at defcon demonstrated setiri, a trojan horse that evades firewall detection.
++ itopens an invisible window in ie that connects to a web server through a proxy site.
+| + protective measures include turning off the invisible window function in ie, but that could erode the performance of
+some ie functions.
+this is just one example of a vulnerability that firewalls are powerless to prevent.introduction to security tools and technologies
+firewalls: example 18/83
+presenters at defcon demonstrated setiri, a trojan horse that evades firewall detection.
++ itopens an invisible window in ie that connects to a web server through a proxy site.
+| + protective measures include turning off the invisible window function in ie, but that could erode the performance of
+some ie functions.
+this is just one example of a vulnerability that firewalls are powerless to prevent.introduction to security tools and technologies
+firewalls: example 18/83
+presenters at defcon demonstrated setiri, a trojan horse that evades firewall detection.
++ itopens an invisible window in ie that connects to a web server through a proxy site.
+| + protective measures include turning off the invisible window function in ie, but that could erode the performance of
+some ie functions.
+this is just one example of a vulnerability that firewalls are powerless to prevent.introduction to security tools and technologies
+firewalls: example 18/83
+presenters at defcon demonstrated setiri, a trojan horse that evades firewall detection.
++ itopens an invisible window in ie that connects to a web server through a proxy site.
+| + protective measures include turning off the invisible window function in ie, but that could erode the performance of
+some ie functions.
+this is just one example of a vulnerability that firewalls are powerless to prevent.introduction to security tools and technologies
+firewalls: example 18/83
+presenters at defcon demonstrated setiri, a trojan horse that evades firewall detection.
++ itopens an invisible window in ie that connects to a web server through a proxy site.
+| + protective measures include turning off the invisible window function in ie, but that could erode the performance of
+some ie functions.
+this is just one example of a vulnerability that firewalls are powerless to prevent.introduction to security tools and technologies
+firewalls: example 18/83
+presenters at defcon demonstrated setiri, a trojan horse that evades firewall detection.
++ itopens an invisible window in ie that connects to a web server through a proxy site.
+| + protective measures include turning off the invisible window function in ie, but that could erode the performance of
+some ie functions.
+this is just one example of a vulnerability that firewalls are powerless to prevent.introduction to security tools and technologies
+firewalls: example 18/83
+presenters at defcon demonstrated setiri, a trojan horse that evades firewall detection.
++ itopens an invisible window in ie that connects to a web server through a proxy site.
+| + protective measures include turning off the invisible window function in ie, but that could erode the performance of
+some ie functions.
+this is just one example of a vulnerability that firewalls are powerless to prevent.introduction to security tools and technologies
+firewalls: example 18/83
+presenters at defcon demonstrated setiri, a trojan horse that evades firewall detection.
++ itopens an invisible window in ie that connects to a web server through a proxy site.
+| + protective measures include turning off the invisible window function in ie, but that could erode the performance of
+some ie functions.
+this is just one example of a vulnerability that firewalls are powerless to prevent.introduction to security tools and technologies
+firewalls: example 18/83
+presenters at defcon demonstrated setiri, a trojan horse that evades firewall detection.
++ itopens an invisible window in ie that connects to a web server through a proxy site.
+| + protective measures include turning off the invisible window function in ie, but that could erode the performance of
+some ie functions.
+this is just one example of a vulnerability that firewalls are powerless to prevent.introduction to security tools and technologies
+firewalls: example 18/83
+presenters at defcon demonstrated setiri, a trojan horse that evades firewall detection.
++ itopens an invisible window in ie that connects to a web server through a proxy site.
+| + protective measures include turning off the invisible window function in ie, but that could erode the performance of
+some ie functions.
+this is just one example of a vulnerability that firewalls are powerless to prevent.introduction to security tools and technologies
+firewalls: example 18/83
+presenters at defcon demonstrated setiri, a trojan horse that evades firewall detection.
++ itopens an invisible window in ie that connects to a web server through a proxy site.
+| + protective measures include turning off the invisible window function in ie, but that could erode the performance of
+some ie functions.
+this is just one example of a vulnerability that firewalls are powerless to prevent.introduction to security tools and technologies
+firewalls: example 18/83
+presenters at defcon demonstrated setiri, a trojan horse that evades firewall detection.
++ itopens an invisible window in ie that connects to a web server through a proxy site.
+| + protective measures include turning off the invisible window function in ie, but that could erode the performance of
+some ie functions.
+this is just one example of a vulnerability that firewalls are powerless to prevent.introduction to security tools and technologies
+firewalls: example 18/83
+presenters at defcon demonstrated setiri, a trojan horse that evades firewall detection.
++ itopens an invisible window in ie that connects to a web server through a proxy site.
+| + protective measures include turning off the invisible window function in ie, but that could erode the performance of
+some ie functions.
+this is just one example of a vulnerability that firewalls are powerless to prevent.introduction to security tools and technologies
+firewalls: example 18/83
+presenters at defcon demonstrated setiri, a trojan horse that evades firewall detection.
++ itopens an invisible window in ie that connects to a web server through a proxy site.
+| + protective measures include turning off the invisible window function in ie, but that could erode the performance of
+some ie functions.
+this is just one example of a vulnerability that firewalls are powerless to prevent.introduction to security tools and technologies
+firewalls: example 18/83
+presenters at defcon demonstrated setiri, a trojan horse that evades firewall detection.
++ itopens an invisible window in ie that connects to a web server through a proxy site.
+| + protective measures include turning off the invisible window function in ie, but that could erode the performance of
+some ie functions.
+this is just one example of a vulnerability that firewalls are powerless to prevent.introduction to security tools and technologies
+firewalls: example 18/83
+presenters at defcon demonstrated setiri, a trojan horse that evades firewall detection.
++ itopens an invisible window in ie that connects to a web server through a proxy site.
+| + protective measures include turning off the invisible window function in ie, but that could erode the performance of
+some ie functions.
+this is just one example of a vulnerability that firewalls are powerless to prevent.introduction to security tools and technologies
+firewalls: example 18/83
+presenters at defcon demonstrated setiri, a trojan horse that evades firewall detection.
++ itopens an invisible window in ie that connects to a web server through a proxy site.
+| + protective measures include turning off the invisible window function in ie, but that could erode the performance of
+some ie functions.
+this is just one example of a vulnerability that firewalls are powerless to prevent.introduction to security tools and technologies
+firewalls: example 18/83
+presenters at defcon demonstrated setiri, a trojan horse that evades firewall detection.
++ itopens an invisible window in ie that connects to a web server through a proxy site.
+| + protective measures include turning off the invisible window function in ie, but that could erode the performance of
+some ie functions.
+this is just one example of a vulnerability that firewalls are powerless to prevent.introduction to security tools and technologies
+firewalls: example 18/83
+presenters at defcon demonstrated setiri, a trojan horse that evades firewall detection.
++ itopens an invisible window in ie that connects to a web server through a proxy site.
+| + protective measures include turning off the invisible window function in ie, but that could erode the performance of
+some ie functions.
+this is just one example of a vulnerability that firewalls are powerless to prevent.introduction to security tools and technologies
+firewalls: example 18/83
+presenters at defcon demonstrated setiri, a trojan horse that evades firewall detection.
++ itopens an invisible window in ie that connects to a web server through a proxy site.
+| + protective measures include turning off the invisible window function in ie, but that could erode the performance of
+some ie functions.
+this is just one example of a vulnerability that firewalls are powerless to prevent.introduction to security tools and technologies
+firewalls: example 18/83
+presenters at defcon demonstrated setiri, a trojan horse that evades firewall detection.
++ itopens an invisible window in ie that connects to a web server through a proxy site.
+| + protective measures include turning off the invisible window function in ie, but that could erode the performance of
+some ie functions.
+this is just one example of a vulnerability that firewalls are powerless to prevent.introduction to security tools and technologies
+firewalls: example 18/83
+presenters at defcon demonstrated setiri, a trojan horse that evades firewall detection.
++ itopens an invisible window in ie that connects to a web server through a proxy site.
+| + protective measures include turning off the invisible window function in ie, but that could erode the performance of
+some ie functions.
+this is just one example of a vulnerability that firewalls are powerless to prevent.introduction to security tools and technologies
+firewalls: example 18/83
+presenters at defcon demonstrated setiri, a trojan horse that evades firewall detection.
++ itopens an invisible window in ie that connects to a web server through a proxy site.
+| + protective measures include turning off the invisible window function in ie, but that could erode the performance of
+some ie functions.
+this is just one example of a vulnerability that firewalls are powerless to prevent.introduction to security tools and technologies
+firewalls: example 18/83
+presenters at defcon demonstrated setiri, a trojan horse that evades firewall detection.
++ itopens an invisible window in ie that connects to a web server through a proxy site.
+| + protective measures include turning off the invisible window function in ie, but that could erode the performance of
+some ie functions.
+this is just one example of a vulnerability that firewalls are powerless to prevent.introduction to security tools and technologies
+firewalls: example 18/83
+presenters at defcon demonstrated setiri, a trojan horse that evades firewall detection.
++ itopens an invisible window in ie that connects to a web server through a proxy site.
+| + protective measures include turning off the invisible window function in ie, but that could erode the performance of
+some ie functions.
+this is just one example of a vulnerability that firewalls are powerless to prevent.introduction to security tools and technologies
+firewalls: example 18/83
+presenters at defcon demonstrated setiri, a trojan horse that evades firewall detection.
++ itopens an invisible window in ie that connects to a web server through a proxy site.
+| + protective measures include turning off the invisible window function in ie, but that could erode the performance of
+some ie functions.
+this is just one example of a vulnerability that firewalls are powerless to prevent.introduction to security tools and technologies
+firewalls: example 18/83
+presenters at defcon demonstrated setiri, a trojan horse that evades firewall detection.
++ itopens an invisible window in ie that connects to a web server through a proxy site.
+| + protective measures include turning off the invisible window function in ie, but that could erode the performance of
+some ie functions.
+this is just one example of a vulnerability that firewalls are powerless to prevent.introduction to security tools and technologies
+firewalls: example 18/83
+presenters at defcon demonstrated setiri, a trojan horse that evades firewall detection.
++ itopens an invisible window in ie that connects to a web server through a proxy site.
+| + protective measures include turning off the invisible window function in ie, but that could erode the performance of
+some ie functions.
+this is just one example of a vulnerability that firewalls are powerless to prevent.introduction to security tools and technologies
+firewalls: example 18/83
+presenters at defcon demonstrated setiri, a trojan horse that evades firewall detection.
++ itopens an invisible window in ie that connects to a web server through a proxy site.
+| + protective measures include turning off the invisible window function in ie, but that could erode the performance of
+some ie functions.
+this is just one example of a vulnerability that firewalls are powerless to prevent.introduction to security tools and technologies
+firewalls: example 18/83
+presenters at defcon demonstrated setiri, a trojan horse that evades firewall detection.
++ itopens an invisible window in ie that connects to a web server through a proxy site.
+| + protective measures include turning off the invisible window function in ie, but that could erode the performance of
+some ie functions.
+this is just one example of a vulnerability that firewalls are powerless to prevent.introduction to security tools and technologies
+firewalls: example 18/83
+presenters at defcon demonstrated setiri, a trojan horse that evades firewall detection.
++ itopens an invisible window in ie that connects to a web server through a proxy site.
+| + protective measures include turning off the invisible window function in ie, but that could erode the performance of
+some ie functions.
+this is just one example of a vulnerability that firewalls are powerless to prevent.introduction to security tools and technologies
+firewalls: example 18/83
+presenters at defcon demonstrated setiri, a trojan horse that evades firewall detection.
++ itopens an invisible window in ie that connects to a web server through a proxy site.
+| + protective measures include turning off the invisible window function in ie, but that could erode the performance of
+some ie functions.
+this is just one example of a vulnerability that firewalls are powerless to prevent.introduction to security tools and technologies
+firewalls: example 18/83
+presenters at defcon demonstrated setiri, a trojan horse that evades firewall detection.
++ itopens an invisible window in ie that connects to a web server through a proxy site.
+| + protective measures include turning off the invisible window function in ie, but that could erode the performance of
+some ie functions.
+this is just one example of a vulnerability that firewalls are powerless to prevent.introduction to security tools and technologies
+firewalls: example 18/83
+presenters at defcon demonstrated setiri, a trojan horse that evades firewall detection.
++ itopens an invisible window in ie that connects to a web server through a proxy site.
+| + protective measures include turning off the invisible window function in ie, but that could erode the performance of
+some ie functions.
+this is just one example of a vulnerability that firewalls are powerless to prevent.introduction to security tools and technologies
+firewalls: example 18/83
+presenters at defcon demonstrated setiri, a trojan horse that evades firewall detection.
++ itopens an invisible window in ie that connects to a web server through a proxy site.
+| + protective measures include turning off the invisible window function in ie, but that could erode the performance of
+some ie functions.
+this is just one example of a vulnerability that firewalls are powerless to prevent.introduction to security tools and technologies
+firewalls: example 18/83
+presenters at defcon demonstrated setiri, a trojan horse that evades firewall detection.
++ itopens an invisible window in ie that connects to a web server through a proxy site.
+| + protective measures include turning off the invisible window function in ie, but that could erode the performance of
+some ie functions.
+this is just one example of a vulnerability that firewalls are powerless to prevent.introduction to security tools and technologies
+firewalls: example 18/83
+presenters at defcon demonstrated setiri, a trojan horse that evades firewall detection.
++ itopens an invisible window in ie that connects to a web server through a proxy site.
+| + protective measures include turning off the invisible window function in ie, but that could erode the performance of
+some ie functions.
+this is just one example of a vulnerability that firewalls are powerless to prevent.introduction to security tools and technologies
+firewalls: example 18/83
+presenters at defcon demonstrated setiri, a trojan horse that evades firewall detection.
++ itopens an invisible window in ie that connects to a web server through a proxy site.
+| + protective measures include turning off the invisible window function in ie, but that could erode the performance of
+some ie functions.
+this is just one example of a vulnerability that firewalls are powerless to prevent.introduction to security tools and technologies
+firewalls: example 18/83
+presenters at defcon demonstrated setiri, a trojan horse that evades firewall detection.
++ itopens an invisible window in ie that connects to a web server through a proxy site.
+| + protective measures include turning off the invisible window function in ie, but that could erode the performance of
+some ie functions.
+this is just one example of a vulnerability that firewalls are powerless to prevent.introduction to security tools and technologies
+firewalls: example 18/83
+presenters at defcon demonstrated setiri, a trojan horse that evades firewall detection.
++ itopens an invisible window in ie that connects to a web server through a proxy site.
+| + protective measures include turning off the invisible window function in ie, but that could erode the performance of
+some ie functions.
+this is just one example of a vulnerability that firewalls are powerless to prevent.introduction to security tools and technologies
+firewalls: example 18/83
+presenters at defcon demonstrated setiri, a trojan horse that evades firewall detection.
++ itopens an invisible window in ie that connects to a web server through a proxy site.
+| + protective measures include turning off the invisible window function in ie, but that could erode the performance of
+some ie functions.
+this is just one example of a vulnerability that firewalls are powerless to prevent.introduction to security tools and technologies
+firewalls: example 18/83
+presenters at defcon demonstrated setiri, a trojan horse that evades firewall detection.
++ itopens an invisible window in ie that connects to a web server through a proxy site.
+| + protective measures include turning off the invisible window function in ie, but that could erode the performance of
+some ie functions.
+this is just one example of a vulnerability that firewalls are powerless to prevent.introduction to security tools and technologies
+firewalls: example 18/83
+presenters at defcon demonstrated setiri, a trojan horse that evades firewall detection.
++ itopens an invisible window in ie that connects to a web server through a proxy site.
+| + protective measures include turning off the invisible window function in ie, but that could erode the performance of
+some ie functions.
+this is just one example of a vulnerability that firewalls are powerless to prevent.introduction to security tools and technologies
+firewalls: example 18/83
+presenters at defcon demonstrated setiri, a trojan horse that evades firewall detection.
++ itopens an invisible window in ie that connects to a web server through a proxy site.
+| + protective measures include turning off the invisible window function in ie, but that could erode the performance of
+some ie functions.
+this is just one example of a vulnerability that firewalls are powerless to prevent.introduction to security tools and technologies
+firewalls: example 18/83
+presenters at defcon demonstrated setiri, a trojan horse that evades firewall detection.
++ itopens an invisible window in ie that connects to a web server through a proxy site.
+| + protective measures include turning off the invisible window function in ie, but that could erode the performance of
+some ie functions.
+this is just one example of a vulnerability that firewalls are powerless to prevent.introduction to security tools and technologies
+firewalls: example 18/83
+presenters at defcon demonstrated setiri, a trojan horse that evades firewall detection.
++ itopens an invisible window in ie that connects to a web server through a proxy site.
+| + protective measures include turning off the invisible window function in ie, but that could erode the performance of
+some ie functions.
+this is just one example of a vulnerability that firewalls are powerless to prevent.introduction to security tools and technologies
+firewalls: example 18/83
+presenters at defcon demonstrated setiri, a trojan horse that evades firewall detection.
++ itopens an invisible window in ie that connects to a web server through a proxy site.
+| + protective measures include turning off the invisible window function in ie, but that could erode the performance of
+some ie functions.
+this is just one example of a vulnerability that firewalls are powerless to prevent.introduction to security tools and technologies
+firewalls: example 18/83
+presenters at defcon demonstrated setiri, a trojan horse that evades firewall detection.
++ itopens an invisible window in ie that connects to a web server through a proxy site.
+| + protective measures include turning off the invisible window function in ie, but that could erode the performance of
+some ie functions.
+this is just one example of a vulnerability that firewalls are powerless to prevent.introduction to security tools and technologies
+firewalls: example 18/83
+presenters at defcon demonstrated setiri, a trojan horse that evades firewall detection.
++ itopens an invisible window in ie that connects to a web server through a proxy site.
+| + protective measures include turning off the invisible window function in ie, but that could erode the performance of
+some ie functions.
+this is just one example of a vulnerability that firewalls are powerless to prevent.introduction to security tools and technologies
+firewalls: example 18/83
+presenters at defcon demonstrated setiri, a trojan horse that evades firewall detection.
++ itopens an invisible window in ie that connects to a web server through a proxy site.
+| + protective measures include turning off the invisible window function in ie, but that could erode the performance of
+some ie functions.
+this is just one example of a vulnerability that firewalls are powerless to prevent.introduction to security tools and technologies
+firewalls: example 18/83
+presenters at defcon demonstrated setiri, a trojan horse that evades firewall detection.
++ itopens an invisible window in ie that connects to a web server through a proxy site.
+| + protective measures include turning off the invisible window function in ie, but that could erode the performance of
+some ie functions.
+this is just one example of a vulnerability that firewalls are powerless to prevent.introduction to security tools and technologies
+firewalls: example 18/83
+presenters at defcon demonstrated setiri, a trojan horse that evades firewall detection.
++ itopens an invisible window in ie that connects to a web server through a proxy site.
+| + protective measures include turning off the invisible window function in ie, but that could erode the performance of
+some ie functions.
+this is just one example of a vulnerability that firewalls are powerless to prevent.introduction to security tools and technologies
+firewalls: example 18/83
+presenters at defcon demonstrated setiri, a trojan horse that evades firewall detection.
++ itopens an invisible window in ie that connects to a web server through a proxy site.
+| + protective measures include turning off the invisible window function in ie, but that could erode the performance of
+some ie functions.
+this is just one example of a vulnerability that firewalls are powerless to prevent.introduction to security tools and technologies
+firewalls: example 18/83
+presenters at defcon demonstrated setiri, a trojan horse that evades firewall detection.
++ itopens an invisible window in ie that connects to a web server through a proxy site.
+| + protective measures include turning off the invisible window function in ie, but that could erode the performance of
+some ie functions.
+this is just one example of a vulnerability that firewalls are powerless to prevent.introduction to security tools and technologies
+firewalls: example 18/83
+presenters at defcon demonstrated setiri, a trojan horse that evades firewall detection.
++ itopens an invisible window in ie that connects to a web server through a proxy site.
+| + protective measures include turning off the invisible window function in ie, but that could erode the performance of
+some ie functions.
+this is just one example of a vulnerability that firewalls are powerless to prevent.introduction to security tools and technologies
+firewalls: example 18/83
+presenters at defcon demonstrated setiri, a trojan horse that evades firewall detection.
++ itopens an invisible window in ie that connects to a web server through a proxy site.
+| + protective measures include turning off the invisible window function in ie, but that could erode the performance of
+some ie functions.
+this is just one example of a vulnerability that firewalls are powerless to prevent.introduction to security tools and technologies
+firewalls: example 18/83
+presenters at defcon demonstrated setiri, a trojan horse that evades firewall detection.
++ itopens an invisible window in ie that connects to a web server through a proxy site.
+| + protective measures include turning off the invisible window function in ie, but that could erode the performance of
+some ie functions.
+this is just one example of a vulnerability that firewalls are powerless to prevent.introduction to security tools and technologies
+firewalls: example 18/83
+presenters at defcon demonstrated setiri, a trojan horse that evades firewall detection.
++ itopens an invisible window in ie that connects to a web server through a proxy site.
+| + protective measures include turning off the invisible window function in ie, but that could erode the performance of
+some ie functions.
+this is just one example of a vulnerability that firewalls are powerless to prevent.introduction to security tools and technologies
+firewalls: example 18/83
+presenters at defcon demonstrated setiri, a trojan horse that evades firewall detection.
++ itopens an invisible window in ie that connects to a web server through a proxy site.
+| + protective measures include turning off the invisible window function in ie, but that could erode the performance of
+some ie functions.
+this is just one example of a vulnerability that firewalls are powerless to prevent.introduction to security tools and technologies
+firewalls: example 18/83
+presenters at defcon demonstrated setiri, a trojan horse that evades firewall detection.
++ itopens an invisible window in ie that connects to a web server through a proxy site.
+| + protective measures include turning off the invisible window function in ie, but that could erode the performance of
+some ie functions.
+this is just one example of a vulnerability that firewalls are powerless to prevent.introduction to security tools and technologies
+firewalls: example 18/83
+presenters at defcon demonstrated setiri, a trojan horse that evades firewall detection.
++ itopens an invisible window in ie that connects to a web server through a proxy site.
+| + protective measures include turning off the invisible window function in ie, but that could erode the performance of
+some ie functions.
+this is just one example of a vulnerability that firewalls are powerless to prevent.introduction to security tools and technologies
+firewalls: example 18/83
+presenters at defcon demonstrated setiri, a trojan horse that evades firewall detection.
++ itopens an invisible window in ie that connects to a web server through a proxy site.
+| + protective measures include turning off the invisible window function in ie, but that could erode the performance of
+some ie functions.
+this is just one example of a vulnerability that firewalls are powerless to prevent.introduction to security tools and technologies
+firewalls: example 18/83
+presenters at defcon demonstrated setiri, a trojan horse that evades firewall detection.
++ itopens an invisible window in ie that connects to a web server through a proxy site.
+| + protective measures include turning off the invisible window function in ie, but that could erode the performance of
+some ie functions.
+this is just one example of a vulnerability that firewalls are powerless to prevent.introduction to security tools and technologies
+firewalls: example 18/83
+presenters at defcon demonstrated setiri, a trojan horse that evades firewall detection.
++ itopens an invisible window in ie that connects to a web server through a proxy site.
+| + protective measures include turning off the invisible window function in ie, but that could erode the performance of
+some ie functions.
+this is just one example of a vulnerability that firewalls are powerless to prevent.introduction to security tools and technologies
+firewalls: example 18/83
+presenters at defcon demonstrated setiri, a trojan horse that evades firewall detection.
++ itopens an invisible window in ie that connects to a web server through a proxy site.
+| + protective measures include turning off the invisible window function in ie, but that could erode the performance of
+some ie functions.
+this is just one example of a vulnerability that firewalls are powerless to prevent.introduction to security tools and technologies
+firewalls: example 18/83
+presenters at defcon demonstrated setiri, a trojan horse that evades firewall detection.
++ itopens an invisible window in ie that connects to a web server through a proxy site.
+| + protective measures include turning off the invisible window function in ie, but that could erode the performance of
+some ie functions.
+this is just one example of a vulnerability that firewalls are powerless to prevent.introduction to security tools and technologies
+firewalls: example 18/83
+presenters at defcon demonstrated setiri, a trojan horse that evades firewall detection.
++ itopens an invisible window in ie that connects to a web server through a proxy site.
+| + protective measures include turning off the invisible window function in ie, but that could erode the performance of
+some ie functions.
+this is just one example of a vulnerability that firewalls are powerless to prevent.introduction to security tools and technologies
+firewalls: example 18/83
+presenters at defcon demonstrated setiri, a trojan horse that evades firewall detection.
++ itopens an invisible window in ie that connects to a web server through a proxy site.
+| + protective measures include turning off the invisible window function in ie, but that could erode the performance of
+some ie functions.
+this is just one example of a vulnerability that firewalls are powerless to prevent.introduction to security tools and technologies
+firewalls: example 18/83
+presenters at defcon demonstrated setiri, a trojan horse that evades firewall detection.
++ itopens an invisible window in ie that connects to a web server through a proxy site.
+| + protective measures include turning off the invisible window function in ie, but that could erode the performance of
+some ie functions.
+this is just one example of a vulnerability that firewalls are powerless to prevent.introduction to security tools and technologies
+firewalls: example 18/83
+presenters at defcon demonstrated setiri, a trojan horse that evades firewall detection.
++ itopens an invisible window in ie that connects to a web server through a proxy site.
+| + protective measures include turning off the invisible window function in ie, but that could erode the performance of
+some ie functions.
+this is just one example of a vulnerability that firewalls are powerless to prevent.introduction to security tools and technologies
+firewalls: example 18/83
+presenters at defcon demonstrated setiri, a trojan horse that evades firewall detection.
++ itopens an invisible window in ie that connects to a web server through a proxy site.
+| + protective measures include turning off the invisible window function in ie, but that could erode the performance of
+some ie functions.
+this is just one example of a vulnerability that firewalls are powerless to prevent.introduction to security tools and technologies
+firewalls: example 18/83
+presenters at defcon demonstrated setiri, a trojan horse that evades firewall detection.
++ itopens an invisible window in ie that connects to a web server through a proxy site.
+| + protective measures include turning off the invisible window function in ie, but that could erode the performance of
+some ie functions.
+this is just one example of a vulnerability that firewalls are powerless to prevent.introduction to security tools and technologies
+firewalls: example 18/83
+presenters at defcon demonstrated setiri, a trojan horse that evades firewall detection.
++ itopens an invisible window in ie that connects to a web server through a proxy site.
+| + protective measures include turning off the invisible window function in ie, but that could erode the performance of
+some ie functions.
+this is just one example of a vulnerability that firewalls are powerless to prevent.introduction to security tools and technologies
+firewalls: example 18/83
+presenters at defcon demonstrated setiri, a trojan horse that evades firewall detection.
++ itopens an invisible window in ie that connects to a web server through a proxy site.
+| + protective measures include turning off the invisible window function in ie, but that could erode the performance of
+some ie functions.
+this is just one example of a vulnerability that firewalls are powerless to prevent.introduction to security tools and technologies
+firewalls: example 18/83
+presenters at defcon demonstrated setiri, a trojan horse that evades firewall detection.
++ itopens an invisible window in ie that connects to a web server through a proxy site.
+| + protective measures include turning off the invisible window function in ie, but that could erode the performance of
+some ie functions.
+this is just one example of a vulnerability that firewalls are powerless to prevent.introduction to security tools and technologies
+firewalls: example 18/83
+presenters at defcon demonstrated setiri, a trojan horse that evades firewall detection.
++ itopens an invisible window in ie that connects to a web server through a proxy site.
+| + protective measures include turning off the invisible window function in ie, but that could erode the performance of
+some ie functions.
+this is just one example of a vulnerability that firewalls are powerless to prevent.introduction to security tools and technologies
+firewalls: example 18/83
+presenters at defcon demonstrated setiri, a trojan horse that evades firewall detection.
++ itopens an invisible window in ie that connects to a web server through a proxy site.
+| + protective measures include turning off the invisible window function in ie, but that could erode the performance of
+some ie functions.
+this is just one example of a vulnerability that firewalls are powerless to prevent.introduction to security tools and technologies
+firewalls: example 18/83
+presenters at defcon demonstrated setiri, a trojan horse that evades firewall detection.
++ itopens an invisible window in ie that connects to a web server through a proxy site.
+| + protective measures include turning off the invisible window function in ie, but that could erode the performance of
+some ie functions.
+this is just one example of a vulnerability that firewalls are powerless to prevent.introduction to security tools and technologies
+firewalls: example 18/83
+presenters at defcon demonstrated setiri, a trojan horse that evades firewall detection.
++ itopens an invisible window in ie that connects to a web server through a proxy site.
+| + protective measures include turning off the invisible window function in ie, but that could erode the performance of
+some ie functions.
+this is just one example of a vulnerability that firewalls are powerless to prevent.introduction to security tools and technologies
+firewalls: example 18/83
+presenters at defcon demonstrated setiri, a trojan horse that evades firewall detection.
++ itopens an invisible window in ie that connects to a web server through a proxy site.
+| + protective measures include turning off the invisible window function in ie, but that could erode the performance of
+some ie functions.
+this is just one example of a vulnerability that firewalls are powerless to prevent.introduction to security tools and technologies
+firewalls: example 18/83
+presenters at defcon demonstrated setiri, a trojan horse that evades firewall detection.
++ itopens an invisible window in ie that connects to a web server through a proxy site.
+| + protective measures include turning off the invisible window function in ie, but that could erode the performance of
+some ie functions.
+this is just one example of a vulnerability that firewalls are powerless to prevent.introduction to security tools and technologies
+firewalls: example 18/83
+presenters at defcon demonstrated setiri, a trojan horse that evades firewall detection.
++ itopens an invisible window in ie that connects to a web server through a proxy site.
+| + protective measures include turning off the invisible window function in ie, but that could erode the performance of
+some ie functions.
+this is just one example of a vulnerability that firewalls are powerless to prevent.introduction to security tools and technologies
+firewalls: example 18/83
+presenters at defcon demonstrated setiri, a trojan horse that evades firewall detection.
++ itopens an invisible window in ie that connects to a web server through a proxy site.
+| + protective measures include turning off the invisible window function in ie, but that could erode the performance of
+some ie functions.
+this is just one example of a vulnerability that firewalls are powerless to prevent.introduction to security tools and technologies
+firewalls: example 18/83
+presenters at defcon demonstrated setiri, a trojan horse that evades firewall detection.
++ itopens an invisible window in ie that connects to a web server through a proxy site.
+| + protective measures include turning off the invisible window function in ie, but that could erode the performance of
+some ie functions.
+this is just one example of a vulnerability that firewalls are powerless to prevent.introduction to security tools and technologies
+firewalls: example 18/83
+presenters at defcon demonstrated setiri, a trojan horse that evades firewall detection.
++ itopens an invisible window in ie that connects to a web server through a proxy site.
+| + protective measures include turning off the invisible window function in ie, but that could erode the performance of
+some ie functions.
+this is just one example of a vulnerability that firewalls are powerless to prevent.introduction to security tools and technologies
+firewalls: example 18/83
+presenters at defcon demonstrated setiri, a trojan horse that evades firewall detection.
++ itopens an invisible window in ie that connects to a web server through a proxy site.
+| + protective measures include turning off the invisible window function in ie, but that could erode the performance of
+some ie functions.
+this is just one example of a vulnerability that firewalls are powerless to prevent.introduction to security tools and technologies
+firewalls: example 18/83
+presenters at defcon demonstrated setiri, a trojan horse that evades firewall detection.
++ itopens an invisible window in ie that connects to a web server through a proxy site.
+| + protective measures include turning off the invisible window function in ie, but that could erode the performance of
+some ie functions.
+this is just one example of a vulnerability that firewalls are powerless to prevent.introduction to security tools and technologies
+firewalls: example 18/83
+presenters at defcon demonstrated setiri, a trojan horse that evades firewall detection.
++ itopens an invisible window in ie that connects to a web server through a proxy site.
+| + protective measures include turning off the invisible window function in ie, but that could erode the performance of
+some ie functions.
+this is just one example of a vulnerability that firewalls are powerless to prevent.introduction to security tools and technologies
+firewalls: example 18/83
+presenters at defcon demonstrated setiri, a trojan horse that evades firewall detection.
++ itopens an invisible window in ie that connects to a web server through a proxy site.
+| + protective measures include turning off the invisible window function in ie, but that could erode the performance of
+some ie functions.
+this is just one example of a vulnerability that firewalls are powerless to prevent.introduction to security tools and technologies
+firewalls: example 18/83
+presenters at defcon demonstrated setiri, a trojan horse that evades firewall detection.
++ itopens an invisible window in ie that connects to a web server through a proxy site.
+| + protective measures include turning off the invisible window function in ie, but that could erode the performance of
+some ie functions.
+this is just one example of a vulnerability that firewalls are powerless to prevent.introduction to security tools and technologies
+firewalls: example 18/83
+presenters at defcon demonstrated setiri, a trojan horse that evades firewall detection.
++ itopens an invisible window in ie that connects to a web server through a proxy site.
+| + protective measures include turning off the invisible window function in ie, but that could erode the performance of
+some ie functions.
+this is just one example of a vulnerability that firewalls are powerless to prevent.introduction to security tools and technologies
+firewalls: example 18/83
+presenters at defcon demonstrated setiri, a trojan horse that evades firewall detection.
++ itopens an invisible window in ie that connects to a web server through a proxy site.
+| + protective measures include turning off the invisible window function in ie, but that could erode the performance of
+some ie functions.
+this is just one example of a vulnerability that firewalls are powerless to prevent.introduction to security tools and technologies
+firewalls: example 18/83
+presenters at defcon demonstrated setiri, a trojan horse that evades firewall detection.
++ itopens an invisible window in ie that connects to a web server through a proxy site.
+| + protective measures include turning off the invisible window function in ie, but that could erode the performance of
+some ie functions.
+this is just one example of a vulnerability that firewalls are powerless to prevent.
