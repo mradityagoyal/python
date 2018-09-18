@@ -4,7 +4,6 @@ class KthSmallestBST(object):
 
         current = root
         stack = []
-        sorted = []
         done = 0
         while(not done):
             if current is not None:

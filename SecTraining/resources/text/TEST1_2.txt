@@ -1,0 +1,1695 @@
+vpn and its benefits
+zoe
+introduction to security tools and technologies
+03/83
+avpn is a private network constructed across a public network. it implements security measures that encrypt
+data before sending it and decrypt it at the receiving end. you can add additional security by tunneling, in
+which you encrypt originating and receiving network header information as well.
+benefits of vpns:
++ extended geographic connectivity
++ simplified network topology
++ lower operational cost compared to traditional wan
+for example, an organization that has two offices at different locations, each with a local network behind a
+firewall, could set up a vpn. an encrypted tunnel connects these networks together, allowing them to share
+resources. this tunnel runs over the public internet and is reasonably easy to deploy, requiring no additional
+infrastructure expenditure.vpn and its benefits
+zoe
+introduction to security tools and technologies
+03/83
+avpn is a private network constructed across a public network. it implements security measures that encrypt
+data before sending it and decrypt it at the receiving end. you can add additional security by tunneling, in
+which you encrypt originating and receiving network header information as well.
+benefits of vpns:
++ extended geographic connectivity
++ simplified network topology
++ lower operational cost compared to traditional wan
+for example, an organization that has two offices at different locations, each with a local network behind a
+firewall, could set up a vpn. an encrypted tunnel connects these networks together, allowing them to share
+resources. this tunnel runs over the public internet and is reasonably easy to deploy, requiring no additional
+infrastructure expenditure.vpn and its benefits
+zoe
+introduction to security tools and technologies
+03/83
+avpn is a private network constructed across a public network. it implements security measures that encrypt
+data before sending it and decrypt it at the receiving end. you can add additional security by tunneling, in
+which you encrypt originating and receiving network header information as well.
+benefits of vpns:
++ extended geographic connectivity
++ simplified network topology
++ lower operational cost compared to traditional wan
+for example, an organization that has two offices at different locations, each with a local network behind a
+firewall, could set up a vpn. an encrypted tunnel connects these networks together, allowing them to share
+resources. this tunnel runs over the public internet and is reasonably easy to deploy, requiring no additional
+infrastructure expenditure.vpn and its benefits
+zoe
+introduction to security tools and technologies
+03/83
+avpn is a private network constructed across a public network. it implements security measures that encrypt
+data before sending it and decrypt it at the receiving end. you can add additional security by tunneling, in
+which you encrypt originating and receiving network header information as well.
+benefits of vpns:
++ extended geographic connectivity
++ simplified network topology
++ lower operational cost compared to traditional wan
+for example, an organization that has two offices at different locations, each with a local network behind a
+firewall, could set up a vpn. an encrypted tunnel connects these networks together, allowing them to share
+resources. this tunnel runs over the public internet and is reasonably easy to deploy, requiring no additional
+infrastructure expenditure.vpn and its benefits
+zoe
+introduction to security tools and technologies
+03/83
+avpn is a private network constructed across a public network. it implements security measures that encrypt
+data before sending it and decrypt it at the receiving end. you can add additional security by tunneling, in
+which you encrypt originating and receiving network header information as well.
+benefits of vpns:
++ extended geographic connectivity
++ simplified network topology
++ lower operational cost compared to traditional wan
+for example, an organization that has two offices at different locations, each with a local network behind a
+firewall, could set up a vpn. an encrypted tunnel connects these networks together, allowing them to share
+resources. this tunnel runs over the public internet and is reasonably easy to deploy, requiring no additional
+infrastructure expenditure.vpn and its benefits
+zoe
+introduction to security tools and technologies
+03/83
+avpn is a private network constructed across a public network. it implements security measures that encrypt
+data before sending it and decrypt it at the receiving end. you can add additional security by tunneling, in
+which you encrypt originating and receiving network header information as well.
+benefits of vpns:
++ extended geographic connectivity
++ simplified network topology
++ lower operational cost compared to traditional wan
+for example, an organization that has two offices at different locations, each with a local network behind a
+firewall, could set up a vpn. an encrypted tunnel connects these networks together, allowing them to share
+resources. this tunnel runs over the public internet and is reasonably easy to deploy, requiring no additional
+infrastructure expenditure.vpn and its benefits
+zoe
+introduction to security tools and technologies
+03/83
+avpn is a private network constructed across a public network. it implements security measures that encrypt
+data before sending it and decrypt it at the receiving end. you can add additional security by tunneling, in
+which you encrypt originating and receiving network header information as well.
+benefits of vpns:
++ extended geographic connectivity
++ simplified network topology
++ lower operational cost compared to traditional wan
+for example, an organization that has two offices at different locations, each with a local network behind a
+firewall, could set up a vpn. an encrypted tunnel connects these networks together, allowing them to share
+resources. this tunnel runs over the public internet and is reasonably easy to deploy, requiring no additional
+infrastructure expenditure.vpn and its benefits
+zoe
+introduction to security tools and technologies
+03/83
+avpn is a private network constructed across a public network. it implements security measures that encrypt
+data before sending it and decrypt it at the receiving end. you can add additional security by tunneling, in
+which you encrypt originating and receiving network header information as well.
+benefits of vpns:
++ extended geographic connectivity
++ simplified network topology
++ lower operational cost compared to traditional wan
+for example, an organization that has two offices at different locations, each with a local network behind a
+firewall, could set up a vpn. an encrypted tunnel connects these networks together, allowing them to share
+resources. this tunnel runs over the public internet and is reasonably easy to deploy, requiring no additional
+infrastructure expenditure.vpn and its benefits
+zoe
+introduction to security tools and technologies
+03/83
+avpn is a private network constructed across a public network. it implements security measures that encrypt
+data before sending it and decrypt it at the receiving end. you can add additional security by tunneling, in
+which you encrypt originating and receiving network header information as well.
+benefits of vpns:
++ extended geographic connectivity
++ simplified network topology
++ lower operational cost compared to traditional wan
+for example, an organization that has two offices at different locations, each with a local network behind a
+firewall, could set up a vpn. an encrypted tunnel connects these networks together, allowing them to share
+resources. this tunnel runs over the public internet and is reasonably easy to deploy, requiring no additional
+infrastructure expenditure.vpn and its benefits
+zoe
+introduction to security tools and technologies
+03/83
+avpn is a private network constructed across a public network. it implements security measures that encrypt
+data before sending it and decrypt it at the receiving end. you can add additional security by tunneling, in
+which you encrypt originating and receiving network header information as well.
+benefits of vpns:
++ extended geographic connectivity
++ simplified network topology
++ lower operational cost compared to traditional wan
+for example, an organization that has two offices at different locations, each with a local network behind a
+firewall, could set up a vpn. an encrypted tunnel connects these networks together, allowing them to share
+resources. this tunnel runs over the public internet and is reasonably easy to deploy, requiring no additional
+infrastructure expenditure.vpn and its benefits
+zoe
+introduction to security tools and technologies
+03/83
+avpn is a private network constructed across a public network. it implements security measures that encrypt
+data before sending it and decrypt it at the receiving end. you can add additional security by tunneling, in
+which you encrypt originating and receiving network header information as well.
+benefits of vpns:
++ extended geographic connectivity
++ simplified network topology
++ lower operational cost compared to traditional wan
+for example, an organization that has two offices at different locations, each with a local network behind a
+firewall, could set up a vpn. an encrypted tunnel connects these networks together, allowing them to share
+resources. this tunnel runs over the public internet and is reasonably easy to deploy, requiring no additional
+infrastructure expenditure.vpn and its benefits
+zoe
+introduction to security tools and technologies
+03/83
+avpn is a private network constructed across a public network. it implements security measures that encrypt
+data before sending it and decrypt it at the receiving end. you can add additional security by tunneling, in
+which you encrypt originating and receiving network header information as well.
+benefits of vpns:
++ extended geographic connectivity
++ simplified network topology
++ lower operational cost compared to traditional wan
+for example, an organization that has two offices at different locations, each with a local network behind a
+firewall, could set up a vpn. an encrypted tunnel connects these networks together, allowing them to share
+resources. this tunnel runs over the public internet and is reasonably easy to deploy, requiring no additional
+infrastructure expenditure.vpn and its benefits
+zoe
+introduction to security tools and technologies
+03/83
+avpn is a private network constructed across a public network. it implements security measures that encrypt
+data before sending it and decrypt it at the receiving end. you can add additional security by tunneling, in
+which you encrypt originating and receiving network header information as well.
+benefits of vpns:
++ extended geographic connectivity
++ simplified network topology
++ lower operational cost compared to traditional wan
+for example, an organization that has two offices at different locations, each with a local network behind a
+firewall, could set up a vpn. an encrypted tunnel connects these networks together, allowing them to share
+resources. this tunnel runs over the public internet and is reasonably easy to deploy, requiring no additional
+infrastructure expenditure.vpn and its benefits
+zoe
+introduction to security tools and technologies
+03/83
+avpn is a private network constructed across a public network. it implements security measures that encrypt
+data before sending it and decrypt it at the receiving end. you can add additional security by tunneling, in
+which you encrypt originating and receiving network header information as well.
+benefits of vpns:
++ extended geographic connectivity
++ simplified network topology
++ lower operational cost compared to traditional wan
+for example, an organization that has two offices at different locations, each with a local network behind a
+firewall, could set up a vpn. an encrypted tunnel connects these networks together, allowing them to share
+resources. this tunnel runs over the public internet and is reasonably easy to deploy, requiring no additional
+infrastructure expenditure.vpn and its benefits
+zoe
+introduction to security tools and technologies
+03/83
+avpn is a private network constructed across a public network. it implements security measures that encrypt
+data before sending it and decrypt it at the receiving end. you can add additional security by tunneling, in
+which you encrypt originating and receiving network header information as well.
+benefits of vpns:
++ extended geographic connectivity
++ simplified network topology
++ lower operational cost compared to traditional wan
+for example, an organization that has two offices at different locations, each with a local network behind a
+firewall, could set up a vpn. an encrypted tunnel connects these networks together, allowing them to share
+resources. this tunnel runs over the public internet and is reasonably easy to deploy, requiring no additional
+infrastructure expenditure.vpn and its benefits
+zoe
+introduction to security tools and technologies
+03/83
+avpn is a private network constructed across a public network. it implements security measures that encrypt
+data before sending it and decrypt it at the receiving end. you can add additional security by tunneling, in
+which you encrypt originating and receiving network header information as well.
+benefits of vpns:
++ extended geographic connectivity
++ simplified network topology
++ lower operational cost compared to traditional wan
+for example, an organization that has two offices at different locations, each with a local network behind a
+firewall, could set up a vpn. an encrypted tunnel connects these networks together, allowing them to share
+resources. this tunnel runs over the public internet and is reasonably easy to deploy, requiring no additional
+infrastructure expenditure.vpn and its benefits
+zoe
+introduction to security tools and technologies
+03/83
+avpn is a private network constructed across a public network. it implements security measures that encrypt
+data before sending it and decrypt it at the receiving end. you can add additional security by tunneling, in
+which you encrypt originating and receiving network header information as well.
+benefits of vpns:
++ extended geographic connectivity
++ simplified network topology
++ lower operational cost compared to traditional wan
+for example, an organization that has two offices at different locations, each with a local network behind a
+firewall, could set up a vpn. an encrypted tunnel connects these networks together, allowing them to share
+resources. this tunnel runs over the public internet and is reasonably easy to deploy, requiring no additional
+infrastructure expenditure.vpn and its benefits
+zoe
+introduction to security tools and technologies
+03/83
+avpn is a private network constructed across a public network. it implements security measures that encrypt
+data before sending it and decrypt it at the receiving end. you can add additional security by tunneling, in
+which you encrypt originating and receiving network header information as well.
+benefits of vpns:
++ extended geographic connectivity
++ simplified network topology
++ lower operational cost compared to traditional wan
+for example, an organization that has two offices at different locations, each with a local network behind a
+firewall, could set up a vpn. an encrypted tunnel connects these networks together, allowing them to share
+resources. this tunnel runs over the public internet and is reasonably easy to deploy, requiring no additional
+infrastructure expenditure.vpn and its benefits
+zoe
+introduction to security tools and technologies
+03/83
+avpn is a private network constructed across a public network. it implements security measures that encrypt
+data before sending it and decrypt it at the receiving end. you can add additional security by tunneling, in
+which you encrypt originating and receiving network header information as well.
+benefits of vpns:
++ extended geographic connectivity
++ simplified network topology
++ lower operational cost compared to traditional wan
+for example, an organization that has two offices at different locations, each with a local network behind a
+firewall, could set up a vpn. an encrypted tunnel connects these networks together, allowing them to share
+resources. this tunnel runs over the public internet and is reasonably easy to deploy, requiring no additional
+infrastructure expenditure.vpn and its benefits
+zoe
+introduction to security tools and technologies
+03/83
+avpn is a private network constructed across a public network. it implements security measures that encrypt
+data before sending it and decrypt it at the receiving end. you can add additional security by tunneling, in
+which you encrypt originating and receiving network header information as well.
+benefits of vpns:
++ extended geographic connectivity
++ simplified network topology
++ lower operational cost compared to traditional wan
+for example, an organization that has two offices at different locations, each with a local network behind a
+firewall, could set up a vpn. an encrypted tunnel connects these networks together, allowing them to share
+resources. this tunnel runs over the public internet and is reasonably easy to deploy, requiring no additional
+infrastructure expenditure.vpn and its benefits
+zoe
+introduction to security tools and technologies
+03/83
+avpn is a private network constructed across a public network. it implements security measures that encrypt
+data before sending it and decrypt it at the receiving end. you can add additional security by tunneling, in
+which you encrypt originating and receiving network header information as well.
+benefits of vpns:
++ extended geographic connectivity
++ simplified network topology
++ lower operational cost compared to traditional wan
+for example, an organization that has two offices at different locations, each with a local network behind a
+firewall, could set up a vpn. an encrypted tunnel connects these networks together, allowing them to share
+resources. this tunnel runs over the public internet and is reasonably easy to deploy, requiring no additional
+infrastructure expenditure.vpn and its benefits
+zoe
+introduction to security tools and technologies
+03/83
+avpn is a private network constructed across a public network. it implements security measures that encrypt
+data before sending it and decrypt it at the receiving end. you can add additional security by tunneling, in
+which you encrypt originating and receiving network header information as well.
+benefits of vpns:
++ extended geographic connectivity
++ simplified network topology
++ lower operational cost compared to traditional wan
+for example, an organization that has two offices at different locations, each with a local network behind a
+firewall, could set up a vpn. an encrypted tunnel connects these networks together, allowing them to share
+resources. this tunnel runs over the public internet and is reasonably easy to deploy, requiring no additional
+infrastructure expenditure.vpn and its benefits
+zoe
+introduction to security tools and technologies
+03/83
+avpn is a private network constructed across a public network. it implements security measures that encrypt
+data before sending it and decrypt it at the receiving end. you can add additional security by tunneling, in
+which you encrypt originating and receiving network header information as well.
+benefits of vpns:
++ extended geographic connectivity
++ simplified network topology
++ lower operational cost compared to traditional wan
+for example, an organization that has two offices at different locations, each with a local network behind a
+firewall, could set up a vpn. an encrypted tunnel connects these networks together, allowing them to share
+resources. this tunnel runs over the public internet and is reasonably easy to deploy, requiring no additional
+infrastructure expenditure.vpn and its benefits
+zoe
+introduction to security tools and technologies
+03/83
+avpn is a private network constructed across a public network. it implements security measures that encrypt
+data before sending it and decrypt it at the receiving end. you can add additional security by tunneling, in
+which you encrypt originating and receiving network header information as well.
+benefits of vpns:
++ extended geographic connectivity
++ simplified network topology
++ lower operational cost compared to traditional wan
+for example, an organization that has two offices at different locations, each with a local network behind a
+firewall, could set up a vpn. an encrypted tunnel connects these networks together, allowing them to share
+resources. this tunnel runs over the public internet and is reasonably easy to deploy, requiring no additional
+infrastructure expenditure.vpn and its benefits
+zoe
+introduction to security tools and technologies
+03/83
+avpn is a private network constructed across a public network. it implements security measures that encrypt
+data before sending it and decrypt it at the receiving end. you can add additional security by tunneling, in
+which you encrypt originating and receiving network header information as well.
+benefits of vpns:
++ extended geographic connectivity
++ simplified network topology
++ lower operational cost compared to traditional wan
+for example, an organization that has two offices at different locations, each with a local network behind a
+firewall, could set up a vpn. an encrypted tunnel connects these networks together, allowing them to share
+resources. this tunnel runs over the public internet and is reasonably easy to deploy, requiring no additional
+infrastructure expenditure.vpn and its benefits
+zoe
+introduction to security tools and technologies
+03/83
+avpn is a private network constructed across a public network. it implements security measures that encrypt
+data before sending it and decrypt it at the receiving end. you can add additional security by tunneling, in
+which you encrypt originating and receiving network header information as well.
+benefits of vpns:
++ extended geographic connectivity
++ simplified network topology
++ lower operational cost compared to traditional wan
+for example, an organization that has two offices at different locations, each with a local network behind a
+firewall, could set up a vpn. an encrypted tunnel connects these networks together, allowing them to share
+resources. this tunnel runs over the public internet and is reasonably easy to deploy, requiring no additional
+infrastructure expenditure.vpn and its benefits
+zoe
+introduction to security tools and technologies
+03/83
+avpn is a private network constructed across a public network. it implements security measures that encrypt
+data before sending it and decrypt it at the receiving end. you can add additional security by tunneling, in
+which you encrypt originating and receiving network header information as well.
+benefits of vpns:
++ extended geographic connectivity
++ simplified network topology
++ lower operational cost compared to traditional wan
+for example, an organization that has two offices at different locations, each with a local network behind a
+firewall, could set up a vpn. an encrypted tunnel connects these networks together, allowing them to share
+resources. this tunnel runs over the public internet and is reasonably easy to deploy, requiring no additional
+infrastructure expenditure.vpn and its benefits
+zoe
+introduction to security tools and technologies
+03/83
+avpn is a private network constructed across a public network. it implements security measures that encrypt
+data before sending it and decrypt it at the receiving end. you can add additional security by tunneling, in
+which you encrypt originating and receiving network header information as well.
+benefits of vpns:
++ extended geographic connectivity
++ simplified network topology
++ lower operational cost compared to traditional wan
+for example, an organization that has two offices at different locations, each with a local network behind a
+firewall, could set up a vpn. an encrypted tunnel connects these networks together, allowing them to share
+resources. this tunnel runs over the public internet and is reasonably easy to deploy, requiring no additional
+infrastructure expenditure.vpn and its benefits
+zoe
+introduction to security tools and technologies
+03/83
+avpn is a private network constructed across a public network. it implements security measures that encrypt
+data before sending it and decrypt it at the receiving end. you can add additional security by tunneling, in
+which you encrypt originating and receiving network header information as well.
+benefits of vpns:
++ extended geographic connectivity
++ simplified network topology
++ lower operational cost compared to traditional wan
+for example, an organization that has two offices at different locations, each with a local network behind a
+firewall, could set up a vpn. an encrypted tunnel connects these networks together, allowing them to share
+resources. this tunnel runs over the public internet and is reasonably easy to deploy, requiring no additional
+infrastructure expenditure.vpn and its benefits
+zoe
+introduction to security tools and technologies
+03/83
+avpn is a private network constructed across a public network. it implements security measures that encrypt
+data before sending it and decrypt it at the receiving end. you can add additional security by tunneling, in
+which you encrypt originating and receiving network header information as well.
+benefits of vpns:
++ extended geographic connectivity
++ simplified network topology
++ lower operational cost compared to traditional wan
+for example, an organization that has two offices at different locations, each with a local network behind a
+firewall, could set up a vpn. an encrypted tunnel connects these networks together, allowing them to share
+resources. this tunnel runs over the public internet and is reasonably easy to deploy, requiring no additional
+infrastructure expenditure.vpn and its benefits
+zoe
+introduction to security tools and technologies
+03/83
+avpn is a private network constructed across a public network. it implements security measures that encrypt
+data before sending it and decrypt it at the receiving end. you can add additional security by tunneling, in
+which you encrypt originating and receiving network header information as well.
+benefits of vpns:
++ extended geographic connectivity
++ simplified network topology
++ lower operational cost compared to traditional wan
+for example, an organization that has two offices at different locations, each with a local network behind a
+firewall, could set up a vpn. an encrypted tunnel connects these networks together, allowing them to share
+resources. this tunnel runs over the public internet and is reasonably easy to deploy, requiring no additional
+infrastructure expenditure.vpn and its benefits
+zoe
+introduction to security tools and technologies
+03/83
+avpn is a private network constructed across a public network. it implements security measures that encrypt
+data before sending it and decrypt it at the receiving end. you can add additional security by tunneling, in
+which you encrypt originating and receiving network header information as well.
+benefits of vpns:
++ extended geographic connectivity
++ simplified network topology
++ lower operational cost compared to traditional wan
+for example, an organization that has two offices at different locations, each with a local network behind a
+firewall, could set up a vpn. an encrypted tunnel connects these networks together, allowing them to share
+resources. this tunnel runs over the public internet and is reasonably easy to deploy, requiring no additional
+infrastructure expenditure.vpn and its benefits
+zoe
+introduction to security tools and technologies
+03/83
+avpn is a private network constructed across a public network. it implements security measures that encrypt
+data before sending it and decrypt it at the receiving end. you can add additional security by tunneling, in
+which you encrypt originating and receiving network header information as well.
+benefits of vpns:
++ extended geographic connectivity
++ simplified network topology
++ lower operational cost compared to traditional wan
+for example, an organization that has two offices at different locations, each with a local network behind a
+firewall, could set up a vpn. an encrypted tunnel connects these networks together, allowing them to share
+resources. this tunnel runs over the public internet and is reasonably easy to deploy, requiring no additional
+infrastructure expenditure.vpn and its benefits
+zoe
+introduction to security tools and technologies
+03/83
+avpn is a private network constructed across a public network. it implements security measures that encrypt
+data before sending it and decrypt it at the receiving end. you can add additional security by tunneling, in
+which you encrypt originating and receiving network header information as well.
+benefits of vpns:
++ extended geographic connectivity
++ simplified network topology
++ lower operational cost compared to traditional wan
+for example, an organization that has two offices at different locations, each with a local network behind a
+firewall, could set up a vpn. an encrypted tunnel connects these networks together, allowing them to share
+resources. this tunnel runs over the public internet and is reasonably easy to deploy, requiring no additional
+infrastructure expenditure.vpn and its benefits
+zoe
+introduction to security tools and technologies
+03/83
+avpn is a private network constructed across a public network. it implements security measures that encrypt
+data before sending it and decrypt it at the receiving end. you can add additional security by tunneling, in
+which you encrypt originating and receiving network header information as well.
+benefits of vpns:
++ extended geographic connectivity
++ simplified network topology
++ lower operational cost compared to traditional wan
+for example, an organization that has two offices at different locations, each with a local network behind a
+firewall, could set up a vpn. an encrypted tunnel connects these networks together, allowing them to share
+resources. this tunnel runs over the public internet and is reasonably easy to deploy, requiring no additional
+infrastructure expenditure.vpn and its benefits
+zoe
+introduction to security tools and technologies
+03/83
+avpn is a private network constructed across a public network. it implements security measures that encrypt
+data before sending it and decrypt it at the receiving end. you can add additional security by tunneling, in
+which you encrypt originating and receiving network header information as well.
+benefits of vpns:
++ extended geographic connectivity
++ simplified network topology
++ lower operational cost compared to traditional wan
+for example, an organization that has two offices at different locations, each with a local network behind a
+firewall, could set up a vpn. an encrypted tunnel connects these networks together, allowing them to share
+resources. this tunnel runs over the public internet and is reasonably easy to deploy, requiring no additional
+infrastructure expenditure.vpn and its benefits
+zoe
+introduction to security tools and technologies
+03/83
+avpn is a private network constructed across a public network. it implements security measures that encrypt
+data before sending it and decrypt it at the receiving end. you can add additional security by tunneling, in
+which you encrypt originating and receiving network header information as well.
+benefits of vpns:
++ extended geographic connectivity
++ simplified network topology
++ lower operational cost compared to traditional wan
+for example, an organization that has two offices at different locations, each with a local network behind a
+firewall, could set up a vpn. an encrypted tunnel connects these networks together, allowing them to share
+resources. this tunnel runs over the public internet and is reasonably easy to deploy, requiring no additional
+infrastructure expenditure.vpn and its benefits
+zoe
+introduction to security tools and technologies
+03/83
+avpn is a private network constructed across a public network. it implements security measures that encrypt
+data before sending it and decrypt it at the receiving end. you can add additional security by tunneling, in
+which you encrypt originating and receiving network header information as well.
+benefits of vpns:
++ extended geographic connectivity
++ simplified network topology
++ lower operational cost compared to traditional wan
+for example, an organization that has two offices at different locations, each with a local network behind a
+firewall, could set up a vpn. an encrypted tunnel connects these networks together, allowing them to share
+resources. this tunnel runs over the public internet and is reasonably easy to deploy, requiring no additional
+infrastructure expenditure.vpn and its benefits
+zoe
+introduction to security tools and technologies
+03/83
+avpn is a private network constructed across a public network. it implements security measures that encrypt
+data before sending it and decrypt it at the receiving end. you can add additional security by tunneling, in
+which you encrypt originating and receiving network header information as well.
+benefits of vpns:
++ extended geographic connectivity
++ simplified network topology
++ lower operational cost compared to traditional wan
+for example, an organization that has two offices at different locations, each with a local network behind a
+firewall, could set up a vpn. an encrypted tunnel connects these networks together, allowing them to share
+resources. this tunnel runs over the public internet and is reasonably easy to deploy, requiring no additional
+infrastructure expenditure.vpn and its benefits
+zoe
+introduction to security tools and technologies
+03/83
+avpn is a private network constructed across a public network. it implements security measures that encrypt
+data before sending it and decrypt it at the receiving end. you can add additional security by tunneling, in
+which you encrypt originating and receiving network header information as well.
+benefits of vpns:
++ extended geographic connectivity
++ simplified network topology
++ lower operational cost compared to traditional wan
+for example, an organization that has two offices at different locations, each with a local network behind a
+firewall, could set up a vpn. an encrypted tunnel connects these networks together, allowing them to share
+resources. this tunnel runs over the public internet and is reasonably easy to deploy, requiring no additional
+infrastructure expenditure.vpn and its benefits
+zoe
+introduction to security tools and technologies
+03/83
+avpn is a private network constructed across a public network. it implements security measures that encrypt
+data before sending it and decrypt it at the receiving end. you can add additional security by tunneling, in
+which you encrypt originating and receiving network header information as well.
+benefits of vpns:
++ extended geographic connectivity
++ simplified network topology
++ lower operational cost compared to traditional wan
+for example, an organization that has two offices at different locations, each with a local network behind a
+firewall, could set up a vpn. an encrypted tunnel connects these networks together, allowing them to share
+resources. this tunnel runs over the public internet and is reasonably easy to deploy, requiring no additional
+infrastructure expenditure.vpn and its benefits
+zoe
+introduction to security tools and technologies
+03/83
+avpn is a private network constructed across a public network. it implements security measures that encrypt
+data before sending it and decrypt it at the receiving end. you can add additional security by tunneling, in
+which you encrypt originating and receiving network header information as well.
+benefits of vpns:
++ extended geographic connectivity
++ simplified network topology
++ lower operational cost compared to traditional wan
+for example, an organization that has two offices at different locations, each with a local network behind a
+firewall, could set up a vpn. an encrypted tunnel connects these networks together, allowing them to share
+resources. this tunnel runs over the public internet and is reasonably easy to deploy, requiring no additional
+infrastructure expenditure.vpn and its benefits
+zoe
+introduction to security tools and technologies
+03/83
+avpn is a private network constructed across a public network. it implements security measures that encrypt
+data before sending it and decrypt it at the receiving end. you can add additional security by tunneling, in
+which you encrypt originating and receiving network header information as well.
+benefits of vpns:
++ extended geographic connectivity
++ simplified network topology
++ lower operational cost compared to traditional wan
+for example, an organization that has two offices at different locations, each with a local network behind a
+firewall, could set up a vpn. an encrypted tunnel connects these networks together, allowing them to share
+resources. this tunnel runs over the public internet and is reasonably easy to deploy, requiring no additional
+infrastructure expenditure.vpn and its benefits
+zoe
+introduction to security tools and technologies
+03/83
+avpn is a private network constructed across a public network. it implements security measures that encrypt
+data before sending it and decrypt it at the receiving end. you can add additional security by tunneling, in
+which you encrypt originating and receiving network header information as well.
+benefits of vpns:
++ extended geographic connectivity
++ simplified network topology
++ lower operational cost compared to traditional wan
+for example, an organization that has two offices at different locations, each with a local network behind a
+firewall, could set up a vpn. an encrypted tunnel connects these networks together, allowing them to share
+resources. this tunnel runs over the public internet and is reasonably easy to deploy, requiring no additional
+infrastructure expenditure.vpn and its benefits
+zoe
+introduction to security tools and technologies
+03/83
+avpn is a private network constructed across a public network. it implements security measures that encrypt
+data before sending it and decrypt it at the receiving end. you can add additional security by tunneling, in
+which you encrypt originating and receiving network header information as well.
+benefits of vpns:
++ extended geographic connectivity
++ simplified network topology
++ lower operational cost compared to traditional wan
+for example, an organization that has two offices at different locations, each with a local network behind a
+firewall, could set up a vpn. an encrypted tunnel connects these networks together, allowing them to share
+resources. this tunnel runs over the public internet and is reasonably easy to deploy, requiring no additional
+infrastructure expenditure.vpn and its benefits
+zoe
+introduction to security tools and technologies
+03/83
+avpn is a private network constructed across a public network. it implements security measures that encrypt
+data before sending it and decrypt it at the receiving end. you can add additional security by tunneling, in
+which you encrypt originating and receiving network header information as well.
+benefits of vpns:
++ extended geographic connectivity
++ simplified network topology
++ lower operational cost compared to traditional wan
+for example, an organization that has two offices at different locations, each with a local network behind a
+firewall, could set up a vpn. an encrypted tunnel connects these networks together, allowing them to share
+resources. this tunnel runs over the public internet and is reasonably easy to deploy, requiring no additional
+infrastructure expenditure.vpn and its benefits
+zoe
+introduction to security tools and technologies
+03/83
+avpn is a private network constructed across a public network. it implements security measures that encrypt
+data before sending it and decrypt it at the receiving end. you can add additional security by tunneling, in
+which you encrypt originating and receiving network header information as well.
+benefits of vpns:
++ extended geographic connectivity
++ simplified network topology
++ lower operational cost compared to traditional wan
+for example, an organization that has two offices at different locations, each with a local network behind a
+firewall, could set up a vpn. an encrypted tunnel connects these networks together, allowing them to share
+resources. this tunnel runs over the public internet and is reasonably easy to deploy, requiring no additional
+infrastructure expenditure.vpn and its benefits
+zoe
+introduction to security tools and technologies
+03/83
+avpn is a private network constructed across a public network. it implements security measures that encrypt
+data before sending it and decrypt it at the receiving end. you can add additional security by tunneling, in
+which you encrypt originating and receiving network header information as well.
+benefits of vpns:
++ extended geographic connectivity
++ simplified network topology
++ lower operational cost compared to traditional wan
+for example, an organization that has two offices at different locations, each with a local network behind a
+firewall, could set up a vpn. an encrypted tunnel connects these networks together, allowing them to share
+resources. this tunnel runs over the public internet and is reasonably easy to deploy, requiring no additional
+infrastructure expenditure.vpn and its benefits
+zoe
+introduction to security tools and technologies
+03/83
+avpn is a private network constructed across a public network. it implements security measures that encrypt
+data before sending it and decrypt it at the receiving end. you can add additional security by tunneling, in
+which you encrypt originating and receiving network header information as well.
+benefits of vpns:
++ extended geographic connectivity
++ simplified network topology
++ lower operational cost compared to traditional wan
+for example, an organization that has two offices at different locations, each with a local network behind a
+firewall, could set up a vpn. an encrypted tunnel connects these networks together, allowing them to share
+resources. this tunnel runs over the public internet and is reasonably easy to deploy, requiring no additional
+infrastructure expenditure.vpn and its benefits
+zoe
+introduction to security tools and technologies
+03/83
+avpn is a private network constructed across a public network. it implements security measures that encrypt
+data before sending it and decrypt it at the receiving end. you can add additional security by tunneling, in
+which you encrypt originating and receiving network header information as well.
+benefits of vpns:
++ extended geographic connectivity
++ simplified network topology
++ lower operational cost compared to traditional wan
+for example, an organization that has two offices at different locations, each with a local network behind a
+firewall, could set up a vpn. an encrypted tunnel connects these networks together, allowing them to share
+resources. this tunnel runs over the public internet and is reasonably easy to deploy, requiring no additional
+infrastructure expenditure.vpn and its benefits
+zoe
+introduction to security tools and technologies
+03/83
+avpn is a private network constructed across a public network. it implements security measures that encrypt
+data before sending it and decrypt it at the receiving end. you can add additional security by tunneling, in
+which you encrypt originating and receiving network header information as well.
+benefits of vpns:
++ extended geographic connectivity
++ simplified network topology
++ lower operational cost compared to traditional wan
+for example, an organization that has two offices at different locations, each with a local network behind a
+firewall, could set up a vpn. an encrypted tunnel connects these networks together, allowing them to share
+resources. this tunnel runs over the public internet and is reasonably easy to deploy, requiring no additional
+infrastructure expenditure.vpn and its benefits
+zoe
+introduction to security tools and technologies
+03/83
+avpn is a private network constructed across a public network. it implements security measures that encrypt
+data before sending it and decrypt it at the receiving end. you can add additional security by tunneling, in
+which you encrypt originating and receiving network header information as well.
+benefits of vpns:
++ extended geographic connectivity
++ simplified network topology
++ lower operational cost compared to traditional wan
+for example, an organization that has two offices at different locations, each with a local network behind a
+firewall, could set up a vpn. an encrypted tunnel connects these networks together, allowing them to share
+resources. this tunnel runs over the public internet and is reasonably easy to deploy, requiring no additional
+infrastructure expenditure.vpn and its benefits
+zoe
+introduction to security tools and technologies
+03/83
+avpn is a private network constructed across a public network. it implements security measures that encrypt
+data before sending it and decrypt it at the receiving end. you can add additional security by tunneling, in
+which you encrypt originating and receiving network header information as well.
+benefits of vpns:
++ extended geographic connectivity
++ simplified network topology
++ lower operational cost compared to traditional wan
+for example, an organization that has two offices at different locations, each with a local network behind a
+firewall, could set up a vpn. an encrypted tunnel connects these networks together, allowing them to share
+resources. this tunnel runs over the public internet and is reasonably easy to deploy, requiring no additional
+infrastructure expenditure.vpn and its benefits
+zoe
+introduction to security tools and technologies
+03/83
+avpn is a private network constructed across a public network. it implements security measures that encrypt
+data before sending it and decrypt it at the receiving end. you can add additional security by tunneling, in
+which you encrypt originating and receiving network header information as well.
+benefits of vpns:
++ extended geographic connectivity
++ simplified network topology
++ lower operational cost compared to traditional wan
+for example, an organization that has two offices at different locations, each with a local network behind a
+firewall, could set up a vpn. an encrypted tunnel connects these networks together, allowing them to share
+resources. this tunnel runs over the public internet and is reasonably easy to deploy, requiring no additional
+infrastructure expenditure.vpn and its benefits
+zoe
+introduction to security tools and technologies
+03/83
+avpn is a private network constructed across a public network. it implements security measures that encrypt
+data before sending it and decrypt it at the receiving end. you can add additional security by tunneling, in
+which you encrypt originating and receiving network header information as well.
+benefits of vpns:
++ extended geographic connectivity
++ simplified network topology
++ lower operational cost compared to traditional wan
+for example, an organization that has two offices at different locations, each with a local network behind a
+firewall, could set up a vpn. an encrypted tunnel connects these networks together, allowing them to share
+resources. this tunnel runs over the public internet and is reasonably easy to deploy, requiring no additional
+infrastructure expenditure.vpn and its benefits
+zoe
+introduction to security tools and technologies
+03/83
+avpn is a private network constructed across a public network. it implements security measures that encrypt
+data before sending it and decrypt it at the receiving end. you can add additional security by tunneling, in
+which you encrypt originating and receiving network header information as well.
+benefits of vpns:
++ extended geographic connectivity
++ simplified network topology
++ lower operational cost compared to traditional wan
+for example, an organization that has two offices at different locations, each with a local network behind a
+firewall, could set up a vpn. an encrypted tunnel connects these networks together, allowing them to share
+resources. this tunnel runs over the public internet and is reasonably easy to deploy, requiring no additional
+infrastructure expenditure.vpn and its benefits
+zoe
+introduction to security tools and technologies
+03/83
+avpn is a private network constructed across a public network. it implements security measures that encrypt
+data before sending it and decrypt it at the receiving end. you can add additional security by tunneling, in
+which you encrypt originating and receiving network header information as well.
+benefits of vpns:
++ extended geographic connectivity
++ simplified network topology
++ lower operational cost compared to traditional wan
+for example, an organization that has two offices at different locations, each with a local network behind a
+firewall, could set up a vpn. an encrypted tunnel connects these networks together, allowing them to share
+resources. this tunnel runs over the public internet and is reasonably easy to deploy, requiring no additional
+infrastructure expenditure.vpn and its benefits
+zoe
+introduction to security tools and technologies
+03/83
+avpn is a private network constructed across a public network. it implements security measures that encrypt
+data before sending it and decrypt it at the receiving end. you can add additional security by tunneling, in
+which you encrypt originating and receiving network header information as well.
+benefits of vpns:
++ extended geographic connectivity
++ simplified network topology
++ lower operational cost compared to traditional wan
+for example, an organization that has two offices at different locations, each with a local network behind a
+firewall, could set up a vpn. an encrypted tunnel connects these networks together, allowing them to share
+resources. this tunnel runs over the public internet and is reasonably easy to deploy, requiring no additional
+infrastructure expenditure.vpn and its benefits
+zoe
+introduction to security tools and technologies
+03/83
+avpn is a private network constructed across a public network. it implements security measures that encrypt
+data before sending it and decrypt it at the receiving end. you can add additional security by tunneling, in
+which you encrypt originating and receiving network header information as well.
+benefits of vpns:
++ extended geographic connectivity
++ simplified network topology
++ lower operational cost compared to traditional wan
+for example, an organization that has two offices at different locations, each with a local network behind a
+firewall, could set up a vpn. an encrypted tunnel connects these networks together, allowing them to share
+resources. this tunnel runs over the public internet and is reasonably easy to deploy, requiring no additional
+infrastructure expenditure.vpn and its benefits
+zoe
+introduction to security tools and technologies
+03/83
+avpn is a private network constructed across a public network. it implements security measures that encrypt
+data before sending it and decrypt it at the receiving end. you can add additional security by tunneling, in
+which you encrypt originating and receiving network header information as well.
+benefits of vpns:
++ extended geographic connectivity
++ simplified network topology
++ lower operational cost compared to traditional wan
+for example, an organization that has two offices at different locations, each with a local network behind a
+firewall, could set up a vpn. an encrypted tunnel connects these networks together, allowing them to share
+resources. this tunnel runs over the public internet and is reasonably easy to deploy, requiring no additional
+infrastructure expenditure.vpn and its benefits
+zoe
+introduction to security tools and technologies
+03/83
+avpn is a private network constructed across a public network. it implements security measures that encrypt
+data before sending it and decrypt it at the receiving end. you can add additional security by tunneling, in
+which you encrypt originating and receiving network header information as well.
+benefits of vpns:
++ extended geographic connectivity
++ simplified network topology
++ lower operational cost compared to traditional wan
+for example, an organization that has two offices at different locations, each with a local network behind a
+firewall, could set up a vpn. an encrypted tunnel connects these networks together, allowing them to share
+resources. this tunnel runs over the public internet and is reasonably easy to deploy, requiring no additional
+infrastructure expenditure.vpn and its benefits
+zoe
+introduction to security tools and technologies
+03/83
+avpn is a private network constructed across a public network. it implements security measures that encrypt
+data before sending it and decrypt it at the receiving end. you can add additional security by tunneling, in
+which you encrypt originating and receiving network header information as well.
+benefits of vpns:
++ extended geographic connectivity
++ simplified network topology
++ lower operational cost compared to traditional wan
+for example, an organization that has two offices at different locations, each with a local network behind a
+firewall, could set up a vpn. an encrypted tunnel connects these networks together, allowing them to share
+resources. this tunnel runs over the public internet and is reasonably easy to deploy, requiring no additional
+infrastructure expenditure.vpn and its benefits
+zoe
+introduction to security tools and technologies
+03/83
+avpn is a private network constructed across a public network. it implements security measures that encrypt
+data before sending it and decrypt it at the receiving end. you can add additional security by tunneling, in
+which you encrypt originating and receiving network header information as well.
+benefits of vpns:
++ extended geographic connectivity
++ simplified network topology
++ lower operational cost compared to traditional wan
+for example, an organization that has two offices at different locations, each with a local network behind a
+firewall, could set up a vpn. an encrypted tunnel connects these networks together, allowing them to share
+resources. this tunnel runs over the public internet and is reasonably easy to deploy, requiring no additional
+infrastructure expenditure.vpn and its benefits
+zoe
+introduction to security tools and technologies
+03/83
+avpn is a private network constructed across a public network. it implements security measures that encrypt
+data before sending it and decrypt it at the receiving end. you can add additional security by tunneling, in
+which you encrypt originating and receiving network header information as well.
+benefits of vpns:
++ extended geographic connectivity
++ simplified network topology
++ lower operational cost compared to traditional wan
+for example, an organization that has two offices at different locations, each with a local network behind a
+firewall, could set up a vpn. an encrypted tunnel connects these networks together, allowing them to share
+resources. this tunnel runs over the public internet and is reasonably easy to deploy, requiring no additional
+infrastructure expenditure.vpn and its benefits
+zoe
+introduction to security tools and technologies
+03/83
+avpn is a private network constructed across a public network. it implements security measures that encrypt
+data before sending it and decrypt it at the receiving end. you can add additional security by tunneling, in
+which you encrypt originating and receiving network header information as well.
+benefits of vpns:
++ extended geographic connectivity
++ simplified network topology
++ lower operational cost compared to traditional wan
+for example, an organization that has two offices at different locations, each with a local network behind a
+firewall, could set up a vpn. an encrypted tunnel connects these networks together, allowing them to share
+resources. this tunnel runs over the public internet and is reasonably easy to deploy, requiring no additional
+infrastructure expenditure.vpn and its benefits
+zoe
+introduction to security tools and technologies
+03/83
+avpn is a private network constructed across a public network. it implements security measures that encrypt
+data before sending it and decrypt it at the receiving end. you can add additional security by tunneling, in
+which you encrypt originating and receiving network header information as well.
+benefits of vpns:
++ extended geographic connectivity
++ simplified network topology
++ lower operational cost compared to traditional wan
+for example, an organization that has two offices at different locations, each with a local network behind a
+firewall, could set up a vpn. an encrypted tunnel connects these networks together, allowing them to share
+resources. this tunnel runs over the public internet and is reasonably easy to deploy, requiring no additional
+infrastructure expenditure.vpn and its benefits
+zoe
+introduction to security tools and technologies
+03/83
+avpn is a private network constructed across a public network. it implements security measures that encrypt
+data before sending it and decrypt it at the receiving end. you can add additional security by tunneling, in
+which you encrypt originating and receiving network header information as well.
+benefits of vpns:
++ extended geographic connectivity
++ simplified network topology
++ lower operational cost compared to traditional wan
+for example, an organization that has two offices at different locations, each with a local network behind a
+firewall, could set up a vpn. an encrypted tunnel connects these networks together, allowing them to share
+resources. this tunnel runs over the public internet and is reasonably easy to deploy, requiring no additional
+infrastructure expenditure.vpn and its benefits
+zoe
+introduction to security tools and technologies
+03/83
+avpn is a private network constructed across a public network. it implements security measures that encrypt
+data before sending it and decrypt it at the receiving end. you can add additional security by tunneling, in
+which you encrypt originating and receiving network header information as well.
+benefits of vpns:
++ extended geographic connectivity
++ simplified network topology
++ lower operational cost compared to traditional wan
+for example, an organization that has two offices at different locations, each with a local network behind a
+firewall, could set up a vpn. an encrypted tunnel connects these networks together, allowing them to share
+resources. this tunnel runs over the public internet and is reasonably easy to deploy, requiring no additional
+infrastructure expenditure.vpn and its benefits
+zoe
+introduction to security tools and technologies
+03/83
+avpn is a private network constructed across a public network. it implements security measures that encrypt
+data before sending it and decrypt it at the receiving end. you can add additional security by tunneling, in
+which you encrypt originating and receiving network header information as well.
+benefits of vpns:
++ extended geographic connectivity
++ simplified network topology
++ lower operational cost compared to traditional wan
+for example, an organization that has two offices at different locations, each with a local network behind a
+firewall, could set up a vpn. an encrypted tunnel connects these networks together, allowing them to share
+resources. this tunnel runs over the public internet and is reasonably easy to deploy, requiring no additional
+infrastructure expenditure.vpn and its benefits
+zoe
+introduction to security tools and technologies
+03/83
+avpn is a private network constructed across a public network. it implements security measures that encrypt
+data before sending it and decrypt it at the receiving end. you can add additional security by tunneling, in
+which you encrypt originating and receiving network header information as well.
+benefits of vpns:
++ extended geographic connectivity
++ simplified network topology
++ lower operational cost compared to traditional wan
+for example, an organization that has two offices at different locations, each with a local network behind a
+firewall, could set up a vpn. an encrypted tunnel connects these networks together, allowing them to share
+resources. this tunnel runs over the public internet and is reasonably easy to deploy, requiring no additional
+infrastructure expenditure.vpn and its benefits
+zoe
+introduction to security tools and technologies
+03/83
+avpn is a private network constructed across a public network. it implements security measures that encrypt
+data before sending it and decrypt it at the receiving end. you can add additional security by tunneling, in
+which you encrypt originating and receiving network header information as well.
+benefits of vpns:
++ extended geographic connectivity
++ simplified network topology
++ lower operational cost compared to traditional wan
+for example, an organization that has two offices at different locations, each with a local network behind a
+firewall, could set up a vpn. an encrypted tunnel connects these networks together, allowing them to share
+resources. this tunnel runs over the public internet and is reasonably easy to deploy, requiring no additional
+infrastructure expenditure.vpn and its benefits
+zoe
+introduction to security tools and technologies
+03/83
+avpn is a private network constructed across a public network. it implements security measures that encrypt
+data before sending it and decrypt it at the receiving end. you can add additional security by tunneling, in
+which you encrypt originating and receiving network header information as well.
+benefits of vpns:
++ extended geographic connectivity
++ simplified network topology
++ lower operational cost compared to traditional wan
+for example, an organization that has two offices at different locations, each with a local network behind a
+firewall, could set up a vpn. an encrypted tunnel connects these networks together, allowing them to share
+resources. this tunnel runs over the public internet and is reasonably easy to deploy, requiring no additional
+infrastructure expenditure.vpn and its benefits
+zoe
+introduction to security tools and technologies
+03/83
+avpn is a private network constructed across a public network. it implements security measures that encrypt
+data before sending it and decrypt it at the receiving end. you can add additional security by tunneling, in
+which you encrypt originating and receiving network header information as well.
+benefits of vpns:
++ extended geographic connectivity
++ simplified network topology
++ lower operational cost compared to traditional wan
+for example, an organization that has two offices at different locations, each with a local network behind a
+firewall, could set up a vpn. an encrypted tunnel connects these networks together, allowing them to share
+resources. this tunnel runs over the public internet and is reasonably easy to deploy, requiring no additional
+infrastructure expenditure.vpn and its benefits
+zoe
+introduction to security tools and technologies
+03/83
+avpn is a private network constructed across a public network. it implements security measures that encrypt
+data before sending it and decrypt it at the receiving end. you can add additional security by tunneling, in
+which you encrypt originating and receiving network header information as well.
+benefits of vpns:
++ extended geographic connectivity
++ simplified network topology
++ lower operational cost compared to traditional wan
+for example, an organization that has two offices at different locations, each with a local network behind a
+firewall, could set up a vpn. an encrypted tunnel connects these networks together, allowing them to share
+resources. this tunnel runs over the public internet and is reasonably easy to deploy, requiring no additional
+infrastructure expenditure.vpn and its benefits
+zoe
+introduction to security tools and technologies
+03/83
+avpn is a private network constructed across a public network. it implements security measures that encrypt
+data before sending it and decrypt it at the receiving end. you can add additional security by tunneling, in
+which you encrypt originating and receiving network header information as well.
+benefits of vpns:
++ extended geographic connectivity
++ simplified network topology
++ lower operational cost compared to traditional wan
+for example, an organization that has two offices at different locations, each with a local network behind a
+firewall, could set up a vpn. an encrypted tunnel connects these networks together, allowing them to share
+resources. this tunnel runs over the public internet and is reasonably easy to deploy, requiring no additional
+infrastructure expenditure.vpn and its benefits
+zoe
+introduction to security tools and technologies
+03/83
+avpn is a private network constructed across a public network. it implements security measures that encrypt
+data before sending it and decrypt it at the receiving end. you can add additional security by tunneling, in
+which you encrypt originating and receiving network header information as well.
+benefits of vpns:
++ extended geographic connectivity
++ simplified network topology
++ lower operational cost compared to traditional wan
+for example, an organization that has two offices at different locations, each with a local network behind a
+firewall, could set up a vpn. an encrypted tunnel connects these networks together, allowing them to share
+resources. this tunnel runs over the public internet and is reasonably easy to deploy, requiring no additional
+infrastructure expenditure.vpn and its benefits
+zoe
+introduction to security tools and technologies
+03/83
+avpn is a private network constructed across a public network. it implements security measures that encrypt
+data before sending it and decrypt it at the receiving end. you can add additional security by tunneling, in
+which you encrypt originating and receiving network header information as well.
+benefits of vpns:
++ extended geographic connectivity
++ simplified network topology
++ lower operational cost compared to traditional wan
+for example, an organization that has two offices at different locations, each with a local network behind a
+firewall, could set up a vpn. an encrypted tunnel connects these networks together, allowing them to share
+resources. this tunnel runs over the public internet and is reasonably easy to deploy, requiring no additional
+infrastructure expenditure.vpn and its benefits
+zoe
+introduction to security tools and technologies
+03/83
+avpn is a private network constructed across a public network. it implements security measures that encrypt
+data before sending it and decrypt it at the receiving end. you can add additional security by tunneling, in
+which you encrypt originating and receiving network header information as well.
+benefits of vpns:
++ extended geographic connectivity
++ simplified network topology
++ lower operational cost compared to traditional wan
+for example, an organization that has two offices at different locations, each with a local network behind a
+firewall, could set up a vpn. an encrypted tunnel connects these networks together, allowing them to share
+resources. this tunnel runs over the public internet and is reasonably easy to deploy, requiring no additional
+infrastructure expenditure.vpn and its benefits
+zoe
+introduction to security tools and technologies
+03/83
+avpn is a private network constructed across a public network. it implements security measures that encrypt
+data before sending it and decrypt it at the receiving end. you can add additional security by tunneling, in
+which you encrypt originating and receiving network header information as well.
+benefits of vpns:
++ extended geographic connectivity
++ simplified network topology
++ lower operational cost compared to traditional wan
+for example, an organization that has two offices at different locations, each with a local network behind a
+firewall, could set up a vpn. an encrypted tunnel connects these networks together, allowing them to share
+resources. this tunnel runs over the public internet and is reasonably easy to deploy, requiring no additional
+infrastructure expenditure.vpn and its benefits
+zoe
+introduction to security tools and technologies
+03/83
+avpn is a private network constructed across a public network. it implements security measures that encrypt
+data before sending it and decrypt it at the receiving end. you can add additional security by tunneling, in
+which you encrypt originating and receiving network header information as well.
+benefits of vpns:
++ extended geographic connectivity
++ simplified network topology
++ lower operational cost compared to traditional wan
+for example, an organization that has two offices at different locations, each with a local network behind a
+firewall, could set up a vpn. an encrypted tunnel connects these networks together, allowing them to share
+resources. this tunnel runs over the public internet and is reasonably easy to deploy, requiring no additional
+infrastructure expenditure.vpn and its benefits
+zoe
+introduction to security tools and technologies
+03/83
+avpn is a private network constructed across a public network. it implements security measures that encrypt
+data before sending it and decrypt it at the receiving end. you can add additional security by tunneling, in
+which you encrypt originating and receiving network header information as well.
+benefits of vpns:
++ extended geographic connectivity
++ simplified network topology
++ lower operational cost compared to traditional wan
+for example, an organization that has two offices at different locations, each with a local network behind a
+firewall, could set up a vpn. an encrypted tunnel connects these networks together, allowing them to share
+resources. this tunnel runs over the public internet and is reasonably easy to deploy, requiring no additional
+infrastructure expenditure.vpn and its benefits
+zoe
+introduction to security tools and technologies
+03/83
+avpn is a private network constructed across a public network. it implements security measures that encrypt
+data before sending it and decrypt it at the receiving end. you can add additional security by tunneling, in
+which you encrypt originating and receiving network header information as well.
+benefits of vpns:
++ extended geographic connectivity
++ simplified network topology
++ lower operational cost compared to traditional wan
+for example, an organization that has two offices at different locations, each with a local network behind a
+firewall, could set up a vpn. an encrypted tunnel connects these networks together, allowing them to share
+resources. this tunnel runs over the public internet and is reasonably easy to deploy, requiring no additional
+infrastructure expenditure.vpn and its benefits
+zoe
+introduction to security tools and technologies
+03/83
+avpn is a private network constructed across a public network. it implements security measures that encrypt
+data before sending it and decrypt it at the receiving end. you can add additional security by tunneling, in
+which you encrypt originating and receiving network header information as well.
+benefits of vpns:
++ extended geographic connectivity
++ simplified network topology
++ lower operational cost compared to traditional wan
+for example, an organization that has two offices at different locations, each with a local network behind a
+firewall, could set up a vpn. an encrypted tunnel connects these networks together, allowing them to share
+resources. this tunnel runs over the public internet and is reasonably easy to deploy, requiring no additional
+infrastructure expenditure.vpn and its benefits
+zoe
+introduction to security tools and technologies
+03/83
+avpn is a private network constructed across a public network. it implements security measures that encrypt
+data before sending it and decrypt it at the receiving end. you can add additional security by tunneling, in
+which you encrypt originating and receiving network header information as well.
+benefits of vpns:
++ extended geographic connectivity
++ simplified network topology
++ lower operational cost compared to traditional wan
+for example, an organization that has two offices at different locations, each with a local network behind a
+firewall, could set up a vpn. an encrypted tunnel connects these networks together, allowing them to share
+resources. this tunnel runs over the public internet and is reasonably easy to deploy, requiring no additional
+infrastructure expenditure.vpn and its benefits
+zoe
+introduction to security tools and technologies
+03/83
+avpn is a private network constructed across a public network. it implements security measures that encrypt
+data before sending it and decrypt it at the receiving end. you can add additional security by tunneling, in
+which you encrypt originating and receiving network header information as well.
+benefits of vpns:
++ extended geographic connectivity
++ simplified network topology
++ lower operational cost compared to traditional wan
+for example, an organization that has two offices at different locations, each with a local network behind a
+firewall, could set up a vpn. an encrypted tunnel connects these networks together, allowing them to share
+resources. this tunnel runs over the public internet and is reasonably easy to deploy, requiring no additional
+infrastructure expenditure.vpn and its benefits
+zoe
+introduction to security tools and technologies
+03/83
+avpn is a private network constructed across a public network. it implements security measures that encrypt
+data before sending it and decrypt it at the receiving end. you can add additional security by tunneling, in
+which you encrypt originating and receiving network header information as well.
+benefits of vpns:
++ extended geographic connectivity
++ simplified network topology
++ lower operational cost compared to traditional wan
+for example, an organization that has two offices at different locations, each with a local network behind a
+firewall, could set up a vpn. an encrypted tunnel connects these networks together, allowing them to share
+resources. this tunnel runs over the public internet and is reasonably easy to deploy, requiring no additional
+infrastructure expenditure.vpn and its benefits
+zoe
+introduction to security tools and technologies
+03/83
+avpn is a private network constructed across a public network. it implements security measures that encrypt
+data before sending it and decrypt it at the receiving end. you can add additional security by tunneling, in
+which you encrypt originating and receiving network header information as well.
+benefits of vpns:
++ extended geographic connectivity
++ simplified network topology
++ lower operational cost compared to traditional wan
+for example, an organization that has two offices at different locations, each with a local network behind a
+firewall, could set up a vpn. an encrypted tunnel connects these networks together, allowing them to share
+resources. this tunnel runs over the public internet and is reasonably easy to deploy, requiring no additional
+infrastructure expenditure.vpn and its benefits
+zoe
+introduction to security tools and technologies
+03/83
+avpn is a private network constructed across a public network. it implements security measures that encrypt
+data before sending it and decrypt it at the receiving end. you can add additional security by tunneling, in
+which you encrypt originating and receiving network header information as well.
+benefits of vpns:
++ extended geographic connectivity
++ simplified network topology
++ lower operational cost compared to traditional wan
+for example, an organization that has two offices at different locations, each with a local network behind a
+firewall, could set up a vpn. an encrypted tunnel connects these networks together, allowing them to share
+resources. this tunnel runs over the public internet and is reasonably easy to deploy, requiring no additional
+infrastructure expenditure.vpn and its benefits
+zoe
+introduction to security tools and technologies
+03/83
+avpn is a private network constructed across a public network. it implements security measures that encrypt
+data before sending it and decrypt it at the receiving end. you can add additional security by tunneling, in
+which you encrypt originating and receiving network header information as well.
+benefits of vpns:
++ extended geographic connectivity
++ simplified network topology
++ lower operational cost compared to traditional wan
+for example, an organization that has two offices at different locations, each with a local network behind a
+firewall, could set up a vpn. an encrypted tunnel connects these networks together, allowing them to share
+resources. this tunnel runs over the public internet and is reasonably easy to deploy, requiring no additional
+infrastructure expenditure.vpn and its benefits
+zoe
+introduction to security tools and technologies
+03/83
+avpn is a private network constructed across a public network. it implements security measures that encrypt
+data before sending it and decrypt it at the receiving end. you can add additional security by tunneling, in
+which you encrypt originating and receiving network header information as well.
+benefits of vpns:
++ extended geographic connectivity
++ simplified network topology
++ lower operational cost compared to traditional wan
+for example, an organization that has two offices at different locations, each with a local network behind a
+firewall, could set up a vpn. an encrypted tunnel connects these networks together, allowing them to share
+resources. this tunnel runs over the public internet and is reasonably easy to deploy, requiring no additional
+infrastructure expenditure.vpn and its benefits
+zoe
+introduction to security tools and technologies
+03/83
+avpn is a private network constructed across a public network. it implements security measures that encrypt
+data before sending it and decrypt it at the receiving end. you can add additional security by tunneling, in
+which you encrypt originating and receiving network header information as well.
+benefits of vpns:
++ extended geographic connectivity
++ simplified network topology
++ lower operational cost compared to traditional wan
+for example, an organization that has two offices at different locations, each with a local network behind a
+firewall, could set up a vpn. an encrypted tunnel connects these networks together, allowing them to share
+resources. this tunnel runs over the public internet and is reasonably easy to deploy, requiring no additional
+infrastructure expenditure.vpn and its benefits
+zoe
+introduction to security tools and technologies
+03/83
+avpn is a private network constructed across a public network. it implements security measures that encrypt
+data before sending it and decrypt it at the receiving end. you can add additional security by tunneling, in
+which you encrypt originating and receiving network header information as well.
+benefits of vpns:
++ extended geographic connectivity
++ simplified network topology
++ lower operational cost compared to traditional wan
+for example, an organization that has two offices at different locations, each with a local network behind a
+firewall, could set up a vpn. an encrypted tunnel connects these networks together, allowing them to share
+resources. this tunnel runs over the public internet and is reasonably easy to deploy, requiring no additional
+infrastructure expenditure.vpn and its benefits
+zoe
+introduction to security tools and technologies
+03/83
+avpn is a private network constructed across a public network. it implements security measures that encrypt
+data before sending it and decrypt it at the receiving end. you can add additional security by tunneling, in
+which you encrypt originating and receiving network header information as well.
+benefits of vpns:
++ extended geographic connectivity
++ simplified network topology
++ lower operational cost compared to traditional wan
+for example, an organization that has two offices at different locations, each with a local network behind a
+firewall, could set up a vpn. an encrypted tunnel connects these networks together, allowing them to share
+resources. this tunnel runs over the public internet and is reasonably easy to deploy, requiring no additional
+infrastructure expenditure.vpn and its benefits
+zoe
+introduction to security tools and technologies
+03/83
+avpn is a private network constructed across a public network. it implements security measures that encrypt
+data before sending it and decrypt it at the receiving end. you can add additional security by tunneling, in
+which you encrypt originating and receiving network header information as well.
+benefits of vpns:
++ extended geographic connectivity
++ simplified network topology
++ lower operational cost compared to traditional wan
+for example, an organization that has two offices at different locations, each with a local network behind a
+firewall, could set up a vpn. an encrypted tunnel connects these networks together, allowing them to share
+resources. this tunnel runs over the public internet and is reasonably easy to deploy, requiring no additional
+infrastructure expenditure.vpn and its benefits
+zoe
+introduction to security tools and technologies
+03/83
+avpn is a private network constructed across a public network. it implements security measures that encrypt
+data before sending it and decrypt it at the receiving end. you can add additional security by tunneling, in
+which you encrypt originating and receiving network header information as well.
+benefits of vpns:
++ extended geographic connectivity
++ simplified network topology
++ lower operational cost compared to traditional wan
+for example, an organization that has two offices at different locations, each with a local network behind a
+firewall, could set up a vpn. an encrypted tunnel connects these networks together, allowing them to share
+resources. this tunnel runs over the public internet and is reasonably easy to deploy, requiring no additional
+infrastructure expenditure.vpn and its benefits
+zoe
+introduction to security tools and technologies
+03/83
+avpn is a private network constructed across a public network. it implements security measures that encrypt
+data before sending it and decrypt it at the receiving end. you can add additional security by tunneling, in
+which you encrypt originating and receiving network header information as well.
+benefits of vpns:
++ extended geographic connectivity
++ simplified network topology
++ lower operational cost compared to traditional wan
+for example, an organization that has two offices at different locations, each with a local network behind a
+firewall, could set up a vpn. an encrypted tunnel connects these networks together, allowing them to share
+resources. this tunnel runs over the public internet and is reasonably easy to deploy, requiring no additional
+infrastructure expenditure.vpn and its benefits
+zoe
+introduction to security tools and technologies
+03/83
+avpn is a private network constructed across a public network. it implements security measures that encrypt
+data before sending it and decrypt it at the receiving end. you can add additional security by tunneling, in
+which you encrypt originating and receiving network header information as well.
+benefits of vpns:
++ extended geographic connectivity
++ simplified network topology
++ lower operational cost compared to traditional wan
+for example, an organization that has two offices at different locations, each with a local network behind a
+firewall, could set up a vpn. an encrypted tunnel connects these networks together, allowing them to share
+resources. this tunnel runs over the public internet and is reasonably easy to deploy, requiring no additional
+infrastructure expenditure.vpn and its benefits
+zoe
+introduction to security tools and technologies
+03/83
+avpn is a private network constructed across a public network. it implements security measures that encrypt
+data before sending it and decrypt it at the receiving end. you can add additional security by tunneling, in
+which you encrypt originating and receiving network header information as well.
+benefits of vpns:
++ extended geographic connectivity
++ simplified network topology
++ lower operational cost compared to traditional wan
+for example, an organization that has two offices at different locations, each with a local network behind a
+firewall, could set up a vpn. an encrypted tunnel connects these networks together, allowing them to share
+resources. this tunnel runs over the public internet and is reasonably easy to deploy, requiring no additional
+infrastructure expenditure.vpn and its benefits
+zoe
+introduction to security tools and technologies
+03/83
+avpn is a private network constructed across a public network. it implements security measures that encrypt
+data before sending it and decrypt it at the receiving end. you can add additional security by tunneling, in
+which you encrypt originating and receiving network header information as well.
+benefits of vpns:
++ extended geographic connectivity
++ simplified network topology
++ lower operational cost compared to traditional wan
+for example, an organization that has two offices at different locations, each with a local network behind a
+firewall, could set up a vpn. an encrypted tunnel connects these networks together, allowing them to share
+resources. this tunnel runs over the public internet and is reasonably easy to deploy, requiring no additional
+infrastructure expenditure.vpn and its benefits
+zoe
+introduction to security tools and technologies
+03/83
+avpn is a private network constructed across a public network. it implements security measures that encrypt
+data before sending it and decrypt it at the receiving end. you can add additional security by tunneling, in
+which you encrypt originating and receiving network header information as well.
+benefits of vpns:
++ extended geographic connectivity
++ simplified network topology
++ lower operational cost compared to traditional wan
+for example, an organization that has two offices at different locations, each with a local network behind a
+firewall, could set up a vpn. an encrypted tunnel connects these networks together, allowing them to share
+resources. this tunnel runs over the public internet and is reasonably easy to deploy, requiring no additional
+infrastructure expenditure.vpn and its benefits
+zoe
+introduction to security tools and technologies
+03/83
+avpn is a private network constructed across a public network. it implements security measures that encrypt
+data before sending it and decrypt it at the receiving end. you can add additional security by tunneling, in
+which you encrypt originating and receiving network header information as well.
+benefits of vpns:
++ extended geographic connectivity
++ simplified network topology
++ lower operational cost compared to traditional wan
+for example, an organization that has two offices at different locations, each with a local network behind a
+firewall, could set up a vpn. an encrypted tunnel connects these networks together, allowing them to share
+resources. this tunnel runs over the public internet and is reasonably easy to deploy, requiring no additional
+infrastructure expenditure.vpn and its benefits
+zoe
+introduction to security tools and technologies
+03/83
+avpn is a private network constructed across a public network. it implements security measures that encrypt
+data before sending it and decrypt it at the receiving end. you can add additional security by tunneling, in
+which you encrypt originating and receiving network header information as well.
+benefits of vpns:
++ extended geographic connectivity
++ simplified network topology
++ lower operational cost compared to traditional wan
+for example, an organization that has two offices at different locations, each with a local network behind a
+firewall, could set up a vpn. an encrypted tunnel connects these networks together, allowing them to share
+resources. this tunnel runs over the public internet and is reasonably easy to deploy, requiring no additional
+infrastructure expenditure.vpn and its benefits
+zoe
+introduction to security tools and technologies
+03/83
+avpn is a private network constructed across a public network. it implements security measures that encrypt
+data before sending it and decrypt it at the receiving end. you can add additional security by tunneling, in
+which you encrypt originating and receiving network header information as well.
+benefits of vpns:
++ extended geographic connectivity
++ simplified network topology
++ lower operational cost compared to traditional wan
+for example, an organization that has two offices at different locations, each with a local network behind a
+firewall, could set up a vpn. an encrypted tunnel connects these networks together, allowing them to share
+resources. this tunnel runs over the public internet and is reasonably easy to deploy, requiring no additional
+infrastructure expenditure.vpn and its benefits
+zoe
+introduction to security tools and technologies
+03/83
+avpn is a private network constructed across a public network. it implements security measures that encrypt
+data before sending it and decrypt it at the receiving end. you can add additional security by tunneling, in
+which you encrypt originating and receiving network header information as well.
+benefits of vpns:
++ extended geographic connectivity
++ simplified network topology
++ lower operational cost compared to traditional wan
+for example, an organization that has two offices at different locations, each with a local network behind a
+firewall, could set up a vpn. an encrypted tunnel connects these networks together, allowing them to share
+resources. this tunnel runs over the public internet and is reasonably easy to deploy, requiring no additional
+infrastructure expenditure.vpn and its benefits
+zoe
+introduction to security tools and technologies
+03/83
+avpn is a private network constructed across a public network. it implements security measures that encrypt
+data before sending it and decrypt it at the receiving end. you can add additional security by tunneling, in
+which you encrypt originating and receiving network header information as well.
+benefits of vpns:
++ extended geographic connectivity
++ simplified network topology
++ lower operational cost compared to traditional wan
+for example, an organization that has two offices at different locations, each with a local network behind a
+firewall, could set up a vpn. an encrypted tunnel connects these networks together, allowing them to share
+resources. this tunnel runs over the public internet and is reasonably easy to deploy, requiring no additional
+infrastructure expenditure.vpn and its benefits
+zoe
+introduction to security tools and technologies
+03/83
+avpn is a private network constructed across a public network. it implements security measures that encrypt
+data before sending it and decrypt it at the receiving end. you can add additional security by tunneling, in
+which you encrypt originating and receiving network header information as well.
+benefits of vpns:
++ extended geographic connectivity
++ simplified network topology
++ lower operational cost compared to traditional wan
+for example, an organization that has two offices at different locations, each with a local network behind a
+firewall, could set up a vpn. an encrypted tunnel connects these networks together, allowing them to share
+resources. this tunnel runs over the public internet and is reasonably easy to deploy, requiring no additional
+infrastructure expenditure.vpn and its benefits
+zoe
+introduction to security tools and technologies
+03/83
+avpn is a private network constructed across a public network. it implements security measures that encrypt
+data before sending it and decrypt it at the receiving end. you can add additional security by tunneling, in
+which you encrypt originating and receiving network header information as well.
+benefits of vpns:
++ extended geographic connectivity
++ simplified network topology
++ lower operational cost compared to traditional wan
+for example, an organization that has two offices at different locations, each with a local network behind a
+firewall, could set up a vpn. an encrypted tunnel connects these networks together, allowing them to share
+resources. this tunnel runs over the public internet and is reasonably easy to deploy, requiring no additional
+infrastructure expenditure.vpn and its benefits
+zoe
+introduction to security tools and technologies
+03/83
+avpn is a private network constructed across a public network. it implements security measures that encrypt
+data before sending it and decrypt it at the receiving end. you can add additional security by tunneling, in
+which you encrypt originating and receiving network header information as well.
+benefits of vpns:
++ extended geographic connectivity
++ simplified network topology
++ lower operational cost compared to traditional wan
+for example, an organization that has two offices at different locations, each with a local network behind a
+firewall, could set up a vpn. an encrypted tunnel connects these networks together, allowing them to share
+resources. this tunnel runs over the public internet and is reasonably easy to deploy, requiring no additional
+infrastructure expenditure.vpn and its benefits
+zoe
+introduction to security tools and technologies
+03/83
+avpn is a private network constructed across a public network. it implements security measures that encrypt
+data before sending it and decrypt it at the receiving end. you can add additional security by tunneling, in
+which you encrypt originating and receiving network header information as well.
+benefits of vpns:
++ extended geographic connectivity
++ simplified network topology
++ lower operational cost compared to traditional wan
+for example, an organization that has two offices at different locations, each with a local network behind a
+firewall, could set up a vpn. an encrypted tunnel connects these networks together, allowing them to share
+resources. this tunnel runs over the public internet and is reasonably easy to deploy, requiring no additional
+infrastructure expenditure.vpn and its benefits
+zoe
+introduction to security tools and technologies
+03/83
+avpn is a private network constructed across a public network. it implements security measures that encrypt
+data before sending it and decrypt it at the receiving end. you can add additional security by tunneling, in
+which you encrypt originating and receiving network header information as well.
+benefits of vpns:
++ extended geographic connectivity
++ simplified network topology
++ lower operational cost compared to traditional wan
+for example, an organization that has two offices at different locations, each with a local network behind a
+firewall, could set up a vpn. an encrypted tunnel connects these networks together, allowing them to share
+resources. this tunnel runs over the public internet and is reasonably easy to deploy, requiring no additional
+infrastructure expenditure.vpn and its benefits
+zoe
+introduction to security tools and technologies
+03/83
+avpn is a private network constructed across a public network. it implements security measures that encrypt
+data before sending it and decrypt it at the receiving end. you can add additional security by tunneling, in
+which you encrypt originating and receiving network header information as well.
+benefits of vpns:
++ extended geographic connectivity
++ simplified network topology
++ lower operational cost compared to traditional wan
+for example, an organization that has two offices at different locations, each with a local network behind a
+firewall, could set up a vpn. an encrypted tunnel connects these networks together, allowing them to share
+resources. this tunnel runs over the public internet and is reasonably easy to deploy, requiring no additional
+infrastructure expenditure.vpn and its benefits
+zoe
+introduction to security tools and technologies
+03/83
+avpn is a private network constructed across a public network. it implements security measures that encrypt
+data before sending it and decrypt it at the receiving end. you can add additional security by tunneling, in
+which you encrypt originating and receiving network header information as well.
+benefits of vpns:
++ extended geographic connectivity
++ simplified network topology
++ lower operational cost compared to traditional wan
+for example, an organization that has two offices at different locations, each with a local network behind a
+firewall, could set up a vpn. an encrypted tunnel connects these networks together, allowing them to share
+resources. this tunnel runs over the public internet and is reasonably easy to deploy, requiring no additional
+infrastructure expenditure.vpn and its benefits
+zoe
+introduction to security tools and technologies
+03/83
+avpn is a private network constructed across a public network. it implements security measures that encrypt
+data before sending it and decrypt it at the receiving end. you can add additional security by tunneling, in
+which you encrypt originating and receiving network header information as well.
+benefits of vpns:
++ extended geographic connectivity
++ simplified network topology
++ lower operational cost compared to traditional wan
+for example, an organization that has two offices at different locations, each with a local network behind a
+firewall, could set up a vpn. an encrypted tunnel connects these networks together, allowing them to share
+resources. this tunnel runs over the public internet and is reasonably easy to deploy, requiring no additional
+infrastructure expenditure.vpn and its benefits
+zoe
+introduction to security tools and technologies
+03/83
+avpn is a private network constructed across a public network. it implements security measures that encrypt
+data before sending it and decrypt it at the receiving end. you can add additional security by tunneling, in
+which you encrypt originating and receiving network header information as well.
+benefits of vpns:
++ extended geographic connectivity
++ simplified network topology
++ lower operational cost compared to traditional wan
+for example, an organization that has two offices at different locations, each with a local network behind a
+firewall, could set up a vpn. an encrypted tunnel connects these networks together, allowing them to share
+resources. this tunnel runs over the public internet and is reasonably easy to deploy, requiring no additional
+infrastructure expenditure.vpn and its benefits
+zoe
+introduction to security tools and technologies
+03/83
+avpn is a private network constructed across a public network. it implements security measures that encrypt
+data before sending it and decrypt it at the receiving end. you can add additional security by tunneling, in
+which you encrypt originating and receiving network header information as well.
+benefits of vpns:
++ extended geographic connectivity
++ simplified network topology
++ lower operational cost compared to traditional wan
+for example, an organization that has two offices at different locations, each with a local network behind a
+firewall, could set up a vpn. an encrypted tunnel connects these networks together, allowing them to share
+resources. this tunnel runs over the public internet and is reasonably easy to deploy, requiring no additional
+infrastructure expenditure.vpn and its benefits
+zoe
+introduction to security tools and technologies
+03/83
+avpn is a private network constructed across a public network. it implements security measures that encrypt
+data before sending it and decrypt it at the receiving end. you can add additional security by tunneling, in
+which you encrypt originating and receiving network header information as well.
+benefits of vpns:
++ extended geographic connectivity
++ simplified network topology
++ lower operational cost compared to traditional wan
+for example, an organization that has two offices at different locations, each with a local network behind a
+firewall, could set up a vpn. an encrypted tunnel connects these networks together, allowing them to share
+resources. this tunnel runs over the public internet and is reasonably easy to deploy, requiring no additional
+infrastructure expenditure.vpn and its benefits
+zoe
+introduction to security tools and technologies
+03/83
+avpn is a private network constructed across a public network. it implements security measures that encrypt
+data before sending it and decrypt it at the receiving end. you can add additional security by tunneling, in
+which you encrypt originating and receiving network header information as well.
+benefits of vpns:
++ extended geographic connectivity
++ simplified network topology
++ lower operational cost compared to traditional wan
+for example, an organization that has two offices at different locations, each with a local network behind a
+firewall, could set up a vpn. an encrypted tunnel connects these networks together, allowing them to share
+resources. this tunnel runs over the public internet and is reasonably easy to deploy, requiring no additional
+infrastructure expenditure.vpn and its benefits
+zoe
+introduction to security tools and technologies
+03/83
+avpn is a private network constructed across a public network. it implements security measures that encrypt
+data before sending it and decrypt it at the receiving end. you can add additional security by tunneling, in
+which you encrypt originating and receiving network header information as well.
+benefits of vpns:
++ extended geographic connectivity
++ simplified network topology
++ lower operational cost compared to traditional wan
+for example, an organization that has two offices at different locations, each with a local network behind a
+firewall, could set up a vpn. an encrypted tunnel connects these networks together, allowing them to share
+resources. this tunnel runs over the public internet and is reasonably easy to deploy, requiring no additional
+infrastructure expenditure.vpn and its benefits
+zoe
+introduction to security tools and technologies
+03/83
+avpn is a private network constructed across a public network. it implements security measures that encrypt
+data before sending it and decrypt it at the receiving end. you can add additional security by tunneling, in
+which you encrypt originating and receiving network header information as well.
+benefits of vpns:
++ extended geographic connectivity
++ simplified network topology
++ lower operational cost compared to traditional wan
+for example, an organization that has two offices at different locations, each with a local network behind a
+firewall, could set up a vpn. an encrypted tunnel connects these networks together, allowing them to share
+resources. this tunnel runs over the public internet and is reasonably easy to deploy, requiring no additional
+infrastructure expenditure.vpn and its benefits
+zoe
+introduction to security tools and technologies
+03/83
+avpn is a private network constructed across a public network. it implements security measures that encrypt
+data before sending it and decrypt it at the receiving end. you can add additional security by tunneling, in
+which you encrypt originating and receiving network header information as well.
+benefits of vpns:
++ extended geographic connectivity
++ simplified network topology
++ lower operational cost compared to traditional wan
+for example, an organization that has two offices at different locations, each with a local network behind a
+firewall, could set up a vpn. an encrypted tunnel connects these networks together, allowing them to share
+resources. this tunnel runs over the public internet and is reasonably easy to deploy, requiring no additional
+infrastructure expenditure.vpn and its benefits
+zoe
+introduction to security tools and technologies
+03/83
+avpn is a private network constructed across a public network. it implements security measures that encrypt
+data before sending it and decrypt it at the receiving end. you can add additional security by tunneling, in
+which you encrypt originating and receiving network header information as well.
+benefits of vpns:
++ extended geographic connectivity
++ simplified network topology
++ lower operational cost compared to traditional wan
+for example, an organization that has two offices at different locations, each with a local network behind a
+firewall, could set up a vpn. an encrypted tunnel connects these networks together, allowing them to share
+resources. this tunnel runs over the public internet and is reasonably easy to deploy, requiring no additional
+infrastructure expenditure.
