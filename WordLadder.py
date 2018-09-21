@@ -49,16 +49,39 @@ class WordLadder:
                 wordList.discard(currentWord)
                 neighbors = {word
                              for word in wordList
-                                if word not in visited
-                                and self.is_one_char_away(word, currentWord)
+                             if self.is_one_char_away(word, currentWord)
                              }
                 if endWord in neighbors: return currPathLen + 1
+                for n in neighbors: wordList.discard(n)
                 queue += [(n, currPathLen+1) for n in neighbors]
         return 0
 
+    def ladder(self, beginWord : str, endWord: str, wordList: [str]) -> [str]:
+        wordList = set(wordList)
+        queue = []
+        result = []
+        queue.append([beginWord])
+        min_len = 10**9
+        while queue:
+            acc = queue.pop(0)
+            currentWord = acc[len(acc)-1]
+            if currentWord == endWord :
+                if(len(acc) <= min_len):
+                    min_len = len(acc)
+                    result.append(acc)
+                else: queue.clear() #clean all others.. as they are longer.
+            else:
+                wordList.discard(currentWord)
+                neighbors = {word
+                             for word in wordList
+                             if self.is_one_char_away(word, currentWord)
+                             }
+                queue += [acc.copy()+[n] for n in neighbors]
+        return result
+
 
     def is_one_char_away(self, s1: str, s2: str) -> bool:
-        return len([ x for x, y in zip(s1, s2) if x != y]) == 1
+        return sum([ 1 for i in range(len(s1)) if s1[i] != s2[i]]) == 1
 
 #
 #one workd away
@@ -78,4 +101,9 @@ wordList = ["hot","dot","dog","lot","log","cog"]
 s1= 'hit'
 s2 = 'cog'
 
-print(wl.ladderLength(s1,s2, wordList))
+# print(wl.ladderLength(s1,s2, wordList))
+# print(wl.ladder(s1,s2, wordList))
+s1= "red"
+s2 = "tax"
+list = ["ted","tex","red","tax","tad","den","rex","pee"]
+print(wl.ladder(s1,s2,list))
