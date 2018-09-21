@@ -53,7 +53,7 @@ class Solution:
 
     def next_level(self, lvl: [TreeLinkNode]) -> [TreeLinkNode] :
         result = []
-        for node in lvl:eet
+        for node in lvl:
             if node.left: result.append(node.left)
             if node.right: result.append(node.rigt)
         return result
