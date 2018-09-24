@@ -1,7 +1,7 @@
 from subprocess import call
 
-NUM_SLIDES = 5
-COURSE_NAME = 'TEST1_'
+NUM_SLIDES = 17
+COURSE_NAME = 'CSharp_'
 #sleep interval
 FIRST_SLIDE = 1
 

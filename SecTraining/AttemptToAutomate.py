@@ -5,14 +5,15 @@ import os
 import pyautogui
 import time
 
-NUM_SLIDES = 40
-screenshot_bbox = (23,120,1000,630)
-COURSE_NAME = 'TEST1_'
+NUM_SLIDES = 17
+screenshot_bbox = (390,120,1500,650)
+COURSE_NAME = 'CSharp_'
 #Location where will click for next
-CLICK_LOC = (105,670)
+CLICK_LOC = (1040,640)
 #sleep interval
-WAIT_TIME = 2
-FIRST_SLIDE = 71
+WAIT_TIME = .2
+FIRST_SLIDE = 1
+EXTRACT_TEXT = False
 
 img_dir = 'resources/captures'
 text_dir = 'resources/text'
@@ -27,17 +28,18 @@ for i in range(FIRST_SLIDE,FIRST_SLIDE+NUM_SLIDES):
     im.save(captureFile)
     print("Screenshot #%s taken and saved at %s" %(i, captureFile))
 
-    #use teserract to extract text.
-    text = pytesseract.image_to_string(im)
-    #remote blank lines
-    text = os.linesep.join([s.lower() for s in text.splitlines() if s])
-    #create file name
-    textFile = "%s/%s%s.txt" %(text_dir, COURSE_NAME, i)
-    #write to file
-    tf = open(textFile, "w")
-    tf.write(text)
-    tf.close()
+    if EXTRACT_TEXT:
 
+        #use teserract to extract text.
+        text = pytesseract.image_to_string(im)
+        #remote blank lines
+        text = os.linesep.join([s.lower() for s in text.splitlines() if s])
+        #create file name
+        textFile = "%s/%s%s.txt" %(text_dir, COURSE_NAME, i)
+        #write to file
+        tf = open(textFile, "w")
+        tf.write(text)
+        tf.close()
     #sleep for some time
     time.sleep(WAIT_TIME)
 
