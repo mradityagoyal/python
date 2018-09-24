@@ -5,14 +5,14 @@ import os
 import pyautogui
 import time
 
-NUM_SLIDES = 10
-screenshot_bbox = (15,100,1060,700)
+NUM_SLIDES = 40
+screenshot_bbox = (23,120,1000,630)
 COURSE_NAME = 'TEST1_'
 #Location where will click for next
-CLICK_LOC = (93,707)
+CLICK_LOC = (105,670)
 #sleep interval
 WAIT_TIME = 2
-FIRST_SLIDE = 7
+FIRST_SLIDE = 71
 
 img_dir = 'resources/captures'
 text_dir = 'resources/text'
@@ -30,7 +30,7 @@ for i in range(FIRST_SLIDE,FIRST_SLIDE+NUM_SLIDES):
     #use teserract to extract text.
     text = pytesseract.image_to_string(im)
     #remote blank lines
-    text = os.linesep.join([s.tolower() for s in text.splitlines() if s])
+    text = os.linesep.join([s.lower() for s in text.splitlines() if s])
     #create file name
     textFile = "%s/%s%s.txt" %(text_dir, COURSE_NAME, i)
     #write to file
