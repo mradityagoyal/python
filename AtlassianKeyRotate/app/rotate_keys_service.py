@@ -70,23 +70,7 @@ def update_repo_time(repo_dir: str, username: str):
     repo.git.commit('-m "Update Key and pass"', author='agoyal@ptc.com')
     repo.git.push('origin')
 
-USERNAME = "mraditya"
-APP_PASS = ''
-ROOT_DIR = "/home/agoyal/.ssh"
-REPO_DIR = '/home/agoyal/keyrotate/twx-scm-monitoring'
-#create backup
-create_backup(ROOT_DIR)
-print('backup created')
-#create new keys
-create_key_pair(ROOT_DIR)
-print('new keys created')
-with open('%s/id_rsa.pub' % ROOT_DIR, 'r') as pub_key_file:
-    pub_key = pub_key_file.read()
-    #upload the keys
-    upload_key(pub_key, key_label= "for desktop", user_id= USERNAME, password=APP_PASS)
-print('keys uploaded')
-update_repo_time(repo_dir=REPO_DIR, username=USERNAME)
-print('git repo updated and pushed')
+
 
 
 
